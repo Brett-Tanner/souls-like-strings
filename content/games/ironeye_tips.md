@@ -8,6 +8,8 @@ tags = ['games', 'nightreign', 'tips']
 
 Will do less damage than other characters, but does it more consistently and can set up the whole team for more damage. His passive helps everyone find rarer items, he can quickly/safely apply status effects and the mark from his character skill gives big staggers/bursts of damage.
 
+Also, he's one of the characters whose final rememberance mission is killing the final boss. Just an FYI as it isn't mentioned in the Journal anywhere.
+
 ## Build
 
 - has high arcane so bows with status are good
