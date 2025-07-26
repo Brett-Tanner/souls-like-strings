@@ -4,6 +4,7 @@ defaultContentLanguage = 'en'
 languageCode = 'en-au'
 title = 'Souls-like Strings'
 theme = 'hugo-bearcub-fork'
+relativeURLs = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
