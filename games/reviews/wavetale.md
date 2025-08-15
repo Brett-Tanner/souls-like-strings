@@ -1,9 +1,9 @@
 ---
-date: '2025-08-02T12:23:41+09:00'
+date: "2025-08-02T12:23:41+09:00"
 draft: false
-title: 'Wavetale'
-hero_path: 'images/games/wavetale.png'
-tags: ['games', 'review']
+title: "Wavetale"
+hero_path: "images/games/wavetale.png"
+tags: [games, review]
 ---
 
 What if Jesus where a blue haired teenage girl?
@@ -31,7 +31,6 @@ Platforming is great for what it's meant to be, a fun way to jump around the sce
 Luckily you can completely ignore land-based combat by just platforming past it for the whole game... until the final battle. Yep, after a fun platforming section zooming toward the end, you're stuck in a 10min long button mashing sequence against some helpless looking diving helmet which summons the same land-based enemies you've been ignoring all game. The combat is too simplistic to add any sense of tension, so I wish they'd dropped it altogether and just leaned into the platforming/waverunning. To add insult to injury, this is the only time the MC has voicelines during combat, and they're repeated endlessly. Speaking of speaking, another issue with the finale is that in the build-up, the normally excellent voice acting just... stops. In a climactic, meant to be emotional scene before our heroes head in for the final battle, everyone's voices just disappear and are replaced by text-accompanied grunts like a low budget visual novel. This took me right out of the mood in what should have been the game's climax.
 
 There are also some minor bugs like glitching back to where you started in a very disorienting way if you narrowly miss a ledge, and loading back into the game displaying then marking as completed all the quests you've done up to that point. I was stuck with one of the last quests in my todo list even post-credits despite completing it, though it at least didn't block progressing the story. These don't really matter but they contributed to the feeling of things being just a little off, which made it hard to just sit back and relax as I was intended to.
-
 
 ## Conclusion
 

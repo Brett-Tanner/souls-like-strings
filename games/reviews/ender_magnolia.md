@@ -1,9 +1,9 @@
 ---
-date: '2025-07-25T14:03:11+09:00'
+date: "2025-07-25T14:03:11+09:00"
 draft: false
-title: 'Ender Magnolia: Bloom in the Mist'
-hero_path: 'images/games/ender_magnolia.png'
-tags: ['games', 'reviews']
+title: "Ender Magnolia: Bloom in the Mist"
+hero_path: "images/games/ender_magnolia.png"
+tags: [games, review]
 ---
 
 The Assassins Creed 2 of video game sequels.
@@ -25,14 +25,13 @@ A fantastic sequel which takes the medieval fantasy foundation of the original a
 
 - No contact damage!!! It only kinda annoyed me in the original, but I can't imagine going back to having it now
 - The map now includes the internal layout of rooms, like platforms and ledges, making it much easier to orient yourself within a room
-- Your summons now work just on cooldowns rather than charges, incentivising  you to actually use them rather than saving them for after you die
+- Your summons now work just on cooldowns rather than charges, incentivising you to actually use them rather than saving them for after you die
 - You can apply challenge modifiers right from the start, without reaching NG+
 - Equipment and totems give you ways to change how base mechanics work, e.g. healing or shooting fireballs when you parry
 - Less summons mean the game has space to give them their own mini-story arcs
   - But doesn't sacrifice combat variety because each summon has three 'modes' you can unlock, replacing the multiple similar summons from Lilies
 - Fast travel from anywhere; since you don't lose progress on death this is just more convenient without making it easier
 - The true final boss is much tougher than anything in Lilies, but still mostly fair (the ice shield ended wayyy too many of my runs)
-
 
 ## Conclusion
 

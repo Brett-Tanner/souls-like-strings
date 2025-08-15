@@ -1,9 +1,9 @@
 ---
-date: '2025-06-22T09:38:26+09:00'
+date: "2025-06-22T09:38:26+09:00"
 draft: false
-title: 'Paradise Killer'
-hero_path: 'images/games/paradise_killer.png'
-tags: ['games', 'reviews', 'tips']
+title: "Paradise Killer"
+hero_path: "images/games/paradise_killer.png"
+tags: [games, review, tips]
 ---
 
 Charming cultists conspire, cockily causing calamities.

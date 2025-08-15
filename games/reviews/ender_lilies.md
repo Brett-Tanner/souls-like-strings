@@ -1,9 +1,9 @@
 ---
-date: '2025-06-28T11:10:59+09:00'
+date: "2025-06-28T11:10:59+09:00"
 draft: false
-title: 'Ender Lilies: Quietus of the Knight'
-hero_path: 'images/games/ender_lilies.png'
-tags: ['games', 'review']
+title: "Ender Lilies: Quietus of the Knight"
+hero_path: "images/games/ender_lilies.png"
+tags: [games, review]
 ---
 
 Smol girl with big スタンド.
@@ -33,10 +33,9 @@ This game has multiple 'endings', and I strongly recommend you at least continue
 
 \***Spoilers end**\*
 
-
 ## Metroidvania Stuff
 
-The first thing you'll notice (if you don't accidentally toggle it off) is the map. Blue rooms still have secrets to be found while yellow rooms are completed, and red dots mark the rough location of potential exits. Typically for a metroidvania you'll leave quite a trail of blue rooms and red dots in your wake, but coming back to explore them later is often meaningfully rewarding. For me this strikes a good balance between the FromSoft frustration of not knowing if you accidentally missed a major questline (crazy that Ranni's whole deal is __optional__ in Elden Ring) and Ubisoft's habit of whacking gigantic objective markers all over your field of view.
+The first thing you'll notice (if you don't accidentally toggle it off) is the map. Blue rooms still have secrets to be found while yellow rooms are completed, and red dots mark the rough location of potential exits. Typically for a metroidvania you'll leave quite a trail of blue rooms and red dots in your wake, but coming back to explore them later is often meaningfully rewarding. For me this strikes a good balance between the FromSoft frustration of not knowing if you accidentally missed a major questline (crazy that Ranni's whole deal is **optional** in Elden Ring) and Ubisoft's habit of whacking gigantic objective markers all over your field of view.
 
 Upgrades to your combat and traversal abilities come through defeating both main and mini-bosses, and the core traversal upgrades still apply even if you don't have the relevant spirit equipped, avoiding 'HM Slave' conundrums. Some areas can be reached early with creative use of your spirits and a keen eye for fake walls, while others are hard-gated behind certain upgrades (the grappling hook being the prime example).
 

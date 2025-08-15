@@ -1,8 +1,8 @@
 ---
-date: '2025-06-21T19:49:29+09:00'
+date: "2025-06-21T19:49:29+09:00"
 draft: false
-title: 'Buying a bicycle'
-tags: [ramblings]
+title: "Buying a bicycle"
+tags: [strings]
 ---
 
 ## Incidentals
@@ -31,11 +31,13 @@ Usually you have cable brakes, can also get hydraulic which feel better and are 
 ### Disc Brakes
 
 For:
+
 - Better performance in different weather conditions
 - Less wear on rims
 - Make removing wheel simpler
 
 Against:
+
 - Can be noisier if dirty
 - Heavier
 - Can overheat and warp
@@ -43,10 +45,12 @@ Against:
 ### Rim Brakes
 
 For:
+
 - Generally silent
 - Equal performance in dry conditions
 
 Against:
+
 - Can add to wear on rims over time
 - Not great in wet weather/dirt
 
@@ -137,4 +141,3 @@ Carbon fork might need to be replaced in a crash, ask what counts as a 'crash'. 
 
 - Hydraulic discs front & back
 - 8/1 Microshift Acolyte
-

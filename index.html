@@ -1,8 +1,9 @@
 <h1>Souls Like Strings</h1>
-<a href="/dev/">Dev</a>
-<a href="/games/">Games</a>
-<a href="/books/">Books</a>
-<a href="/ramblings/">Ramblings</a>
+<nav>
+  {%- for collection in collections.collectionList -%}
+  <a href="/{{ collection }}">{{ collection | capitalize }}</a>
+  {%- endfor -%}
+</nav>
 
 <ul>
   {%- for post in collections.all -%}

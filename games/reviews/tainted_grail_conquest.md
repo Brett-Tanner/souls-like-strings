@@ -1,9 +1,9 @@
 ---
-date: '2025-06-18T20:48:36+09:00'
+date: "2025-06-18T20:48:36+09:00"
 draft: false
-title: 'Tainted Grail: Conquest'
-hero_path: 'images/games/tainted_grail_conquest.png'
-tags: ['games', 'review']
+title: "Tainted Grail: Conquest"
+hero_path: "images/games/tainted_grail_conquest.png"
+tags: [games, review]
 ---
 
 A story-driven roguelike deckbuilder based on Arthurian legends.

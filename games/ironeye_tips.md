@@ -1,9 +1,9 @@
 ---
-date: '2025-05-30T18:29:02+09:00'
+date: "2025-05-30T18:29:02+09:00"
 draft: false
-title: 'Ironeye Tips'
-hero_path: 'images/games/nightreign.png'
-tags: ['games', 'nightreign', 'tips']
+title: "Ironeye Tips"
+hero_path: "images/games/nightreign.png"
+tags: [games, nightreign, tips]
 ---
 
 Will do less damage than other characters, but does it more consistently and can set up the whole team for more damage. His passive helps everyone find rarer items, he can quickly/safely apply status effects and the mark from his character skill gives big staggers/bursts of damage.
@@ -38,4 +38,3 @@ Also, he's one of the characters whose final rememberance mission is killing the
 - shoots an arrow which can pass through anything (including terrain) and creates a shockwave around the target if it hits
 - you can charge it, but the damage doesn't change. Only charge if you need the iframes/to free aim
 - anything hit by the shockwave takes the same damage/stagger as being hit by the arrow, so it's great for clearing adds
-
