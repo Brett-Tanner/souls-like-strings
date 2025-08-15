@@ -1,0 +1,17 @@
+<h1>Souls Like Strings</h1>
+<a href="/dev/">Dev</a>
+<a href="/games/">Games</a>
+<a href="/books/">Books</a>
+<a href="/ramblings/">Ramblings</a>
+
+<ul>
+  {%- for post in collections.all -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endfor -%}
+</ul>
+
+<ul>
+  {%- for tag in collections.tagsList -%}
+  <li>#{{ tag }}</li>
+  {%- endfor -%}
+</ul>
