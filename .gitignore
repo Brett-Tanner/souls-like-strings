@@ -2,3 +2,5 @@
 .DS_Store
 dist
 tmp
+/_site
+/node_modules

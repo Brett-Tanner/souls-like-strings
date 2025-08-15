@@ -1,0 +1,24 @@
+{
+	"name": "souls-like-strings",
+	"version": "1.0.0",
+	"description": "Brett's personal blog.",
+	"scripts": {
+		"build": "npx @11ty/eleventy",
+		"serve": "npx @11ty/eleventy --serve"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Brett-Tanner/souls-like-strings.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/Brett-Tanner/souls-like-strings/issues"
+	},
+	"homepage": "https://github.com/Brett-Tanner/souls-like-strings#readme",
+	"dependencies": {
+		"@11ty/eleventy": "^3.1.2"
+	}
+}
