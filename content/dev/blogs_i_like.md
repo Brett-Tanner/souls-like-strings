@@ -1,5 +1,5 @@
 +++
-date = '2025-15-08T18:43:11+09:00'
+date = '2025-08-15T18:43:11+09:00'
 draft = false
 title = 'Blogs I Enjoy'
 tags = ['programming']
