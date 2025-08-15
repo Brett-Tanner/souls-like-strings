@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Souls Like Strings</title>
+  </head>
+  <body>
+    <header>
+      <a href="/">Souls Like Strings</a>
+      {%- for collection in collections.collectionList -%}
+      <a href="/{{ collection }}">{{ collection | capitalize }}</a>
+      {%- endfor -%}
+    </header>
+
+    <main>{{ content }}</main>
+  </body>
+</html>

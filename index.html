@@ -2,20 +2,18 @@
 eleventyImport:
   collections: [all]
 eleventyExcludeFromCollections: true
+layout: _base.html
 ---
 
 <h1>Souls Like Strings</h1>
-<nav>
-  {%- for collection in collections.collectionList -%}
-  <h2><a href="/{{ collection }}">{{ collection | capitalize }}</a></h2>
-  {%- endfor -%}
-</nav>
+
+{% assign allPosts = collections.all | reverse | limit: 3 %}
 
 <ul>
-  {%- for post in collections.all reversed -%}
+  {%- for post in allPosts -%}
   <article>
     <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-    <p>{{ post.content }}</p>
+    <p>{{ post.content | truncatewords: 40 }}</p>
   </article>
   {%- endfor -%}
 </ul>

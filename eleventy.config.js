@@ -1,6 +1,6 @@
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
-export default async function (eleventyConfig) {
+export default async function(eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
 
 	eleventyConfig.addCollection("tagsList", (collectionApi) => {
@@ -21,5 +21,9 @@ export default async function (eleventyConfig) {
 			}
 		});
 		return collectionsList;
+	});
+
+	eleventyConfig.addFilter("limit", (array, limit) => {
+		return array.slice(0, limit);
 	});
 }
