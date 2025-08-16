@@ -38,7 +38,6 @@ stylesheets: [index]
 </nav>
 
 <footer>
-  <h3>Tags</h3>
   <nav>
     {%- for tag in collections.tagsList -%}
     <a href="/tags/{{ tag | slugify }}">#{{ tag }}</a>
