@@ -6,6 +6,9 @@ export default async function(eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
 	eleventyConfig.addPassthroughCopy("css");
 	eleventyConfig.addWatchTarget("css");
+	eleventyConfig.setServerOptions({
+		showAllHosts: true,
+	});
 
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "rss",
