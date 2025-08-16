@@ -88,4 +88,29 @@ eleventyConfig.addWatchTarget(`${pathToFile}`);
 
 According to [swyx](https://www.swyx.io/line-lengths) `ch` is a decent approximation for character count, so I set `max-width: 70ch` on all `main` elements. I also copied the rest of the content styles from [100 Bytes of CSS](https://www.swyx.io/css-100-bytes) on that blog since they looked like a decent starting point, though I applied them to `main` rather than `html` since I want the freedom to style everything else however I want.
 
+## Return of the Layouts
+
+At this point I realised there was a lot of duplicated code on the index pages for each collection, so it would be best to autogenerate them and handle customisation through custom stylesheets. I implemented per-page stylesheets by adding a `stylesheets` property to my frontmatter which contains an array of strings, then using that inside the head of my base layout like so:
+
+```
+  <head>
+    ...
+    {% if stylesheets %} {% for stylesheet in stylesheets %}
+    <link rel="stylesheet" href="/css/{{ stylesheet }}.css" />
+    {% endfor %} {% endif %}
+    ...
+  </head>
+
+```
+
+While it was easy enough to follow [11ty's guide](https://www.11ty.dev/docs/quicktips/tag-pages/) and generate some tag pages, it was not obvious that these pages can't be paginated by default (e.g. the `size` frontmatter property does nothing here). I found a promising looking [blog post](https://desmondrivet.com/2022/03/23/eleventy-pagination) by Desmond Rivet, but since it's pretty complex I'll leave it for a time where I actually have enough posts to require pagination within tags.
+
+One place I don't need pagination is my RSS feed, which is up next.
+
+## RSS
+
+Since there's a [plugin](https://www.11ty.dev/docs/plugins/rss/) for RSS and I just need to get it up and running for now, I used that. For once in my life the setup was exactly as simple as advertised, nice job plugin authors. And with that, step one of the migration is done! Woo! ~6 hours all up to get it to a point where I felt like I could deploy it instead of the existing version, not too bad.
+
+Next post will be either on styling or paginating the tag pages, depending on what I feel like at the time.
+
 {% endraw %}

@@ -1,9 +1,30 @@
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
-export default async function (eleventyConfig) {
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+
+export default async function(eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
 	eleventyConfig.addPassthroughCopy("css");
 	eleventyConfig.addWatchTarget("css");
+
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "rss",
+		outputPath: "/feed.xml",
+		collection: {
+			name: "all",
+			limit: 10,
+		},
+		metadata: {
+			language: "en",
+			title: "Souls Like Strings",
+			subtitle: "Brett's scribblings on programming, gaming and life",
+			base: "https://souls-like-strings.brett-tanner.dev/",
+			author: {
+				name: "Brett Tanner",
+				email: "",
+			},
+		},
+	});
 
 	eleventyConfig.addCollection("tagsList", (collectionApi) => {
 		const tagsList = new Set();
