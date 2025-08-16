@@ -4,6 +4,7 @@ draft: false
 title: "Cobalt Core"
 hero_path: "images/games/cobalt_core.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 Breaking out of time loops with the power of friendship.

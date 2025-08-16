@@ -4,6 +4,7 @@ draft: false
 title: "Tainted Grail: Conquest"
 hero_path: "images/games/tainted_grail_conquest.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 A story-driven roguelike deckbuilder based on Arthurian legends.

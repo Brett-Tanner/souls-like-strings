@@ -1,7 +1,8 @@
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
-export default async function(eleventyConfig) {
+export default async function (eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
+	eleventyConfig.addPassthroughCopy("_styles");
 
 	eleventyConfig.addCollection("tagsList", (collectionApi) => {
 		const tagsList = new Set();

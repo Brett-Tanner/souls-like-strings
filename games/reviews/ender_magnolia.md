@@ -4,6 +4,7 @@ draft: false
 title: "Ender Magnolia: Bloom in the Mist"
 hero_path: "images/games/ender_magnolia.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 The Assassins Creed 2 of video game sequels.

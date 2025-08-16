@@ -4,6 +4,7 @@ draft: false
 title: "Paradise Killer"
 hero_path: "images/games/paradise_killer.png"
 tags: [games, review, tips]
+layout: _post.html
 ---
 
 Charming cultists conspire, cockily causing calamities.

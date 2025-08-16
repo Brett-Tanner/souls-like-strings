@@ -4,6 +4,7 @@ draft: false
 title: "Wavetale"
 hero_path: "images/games/wavetale.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 What if Jesus where a blue haired teenage girl?

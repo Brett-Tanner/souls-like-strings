@@ -4,6 +4,7 @@ draft: false
 title: "Ender Lilies: Quietus of the Knight"
 hero_path: "images/games/ender_lilies.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 Smol girl with big スタンド.

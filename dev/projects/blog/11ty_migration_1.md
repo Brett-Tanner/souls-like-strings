@@ -3,6 +3,7 @@ date: "2025-08-16T18:43:11+09:00"
 draft: false
 title: "11ty Migration: Feature Parity"
 tags: [dev, projects, blog]
+layout: _post.html
 ---
 
 {% raw %}
@@ -15,9 +16,9 @@ I settled on 11ty as that seems to be what a lot of the people I read are using,
 ## Acceptance Criteria
 
 - All existing content available, descending date order
-- Basic layouts for homepage, indexes & posts
-- Category & tag pages, with tags being clickable links to their index
+- Basic layouts for indexes & posts
 - Similar styling
+- Category & tag pages, with tags being clickable links to their index
 - RSS feed
 
 ## Existing Content
@@ -30,7 +31,7 @@ I'm also adding manual index pages for each category. I assume these can be auto
 
 Posts automatically being available in collections according to their tags '~Rails~ Magic' gave me a nice warm sense of familiarity, accompanied by the creeping dread of needing to modify that magic at some point. Luckily Liquid seems easier to work with than my last interaction with it on my ill-fated Jekyll wiki, or maybe my years of React experience since then have inured me to bullshit syntax.
 
-A few `for .. in .. | reverse` loops later and I have visible content on pages again. I also succeeded in my first library customisation; adding a filter to prevent unsuspecting users needing to download every 'article' I've graced the world with on initial page load. Shoutout to [jeromecoupe](https://github.com/11ty/eleventy/issues/749#issuecomment-547835442) on a Github issue for the custom filter
+A few `for .. in .. | reverse` loops later and I have visible content on pages again. I also succeeded in my first library customisation; adding a filter to prevent unsuspecting users needing to download every 'article' I've graced the world with on initial page load. Shoutout to [jeromecoupe](https://github.com/11ty/eleventy/issues/749#issuecomment-547835442) on a Github issue for the syntax to add a custom filter
 
 ```js
 eleventyConfig.addFilter("limit", function (array, limit) {
@@ -42,10 +43,10 @@ which I then spent far too long figuring out how to use because the example was 
 
 ```
 // Jinja example
-{% set postslist = collections.posts | limit(3) | escape %}
+{% set postslist = collections.posts | limit(3) %}
 
 // Liquid syntax
-{% assign allPosts = collections.all | reverse | limit: 5 | escape %}
+{% assign allPosts = collections.all | reverse | limit: 5 %}
 
 ```
 
@@ -53,7 +54,7 @@ which I then spent far too long figuring out how to use because the example was 
 
 The examples in 11ty's docs were all in Nunjucks, but happily the other available templating languages are available too. Probably best to stick with one until absolutely necessary. Adding and using a `_base.html` was as simple as creating the file with a `{{ content }}` portal and setting `template: _base.html` on the homepage.
 
-Before moving on to template chaining for other pages, I had to resolve some issues with... unexpected link behaviour. I wanted to wrap each article on my homepage in a link, making the whole card clickable, but the end result of
+Before moving on to [layout chaining](https://www.11ty.dev/docs/layout-chaining/) for posts, I had to resolve some issues with... unexpected link behaviour. I wanted to wrap each article on my homepage in a link, making the whole card clickable, but the end result of
 
 ```
 {%- for post in allPosts -%}
@@ -67,5 +68,18 @@ Before moving on to template chaining for other pages, I had to resolve some iss
 ```
 
 Was a bunch of empty links floating above headings, followed by it finally working as expected for the last two. As it turns out [nesting links](https://css-tricks.com/nested-links/) is unsurprisingly not allowed, and the first few posts had links in their first hundred words of content. I decided making the whole card a clickable link was a dumb idea anyway and went back to just the heading as a link.
+
+After that lesson in web standards and basic logic, nesting layouts turned out to be a breeze (just specify the parent layout as a layout for the child layout). On to CSS!
+
+## Styling
+
+I already had infinte ideas for cool styles to apply, so in the interests of not spending an entire week on this I strictly limited myself to:
+
+- default font styles & background color
+- post content is justified & limited to [~80 characters](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html)
+- links look decent, but still underlined
+- the nav header doesn't look terrible
+
+According to [swyx](https://www.swyx.io/line-lengths) `ch` is a decent approximation for character count, so I set `max-width: 70ch` on all `main` elements. I also copied the rest of the content styles from [100 Bytes of CSS](https://www.swyx.io/css-100-bytes) on that blog since they looked like a decent starting point, though I applied them to `main` rather than `html` since I want the freedom to style everything else however I want.
 
 {% endraw %}

@@ -4,6 +4,7 @@ draft: true
 title: "Nightreign"
 hero_path: "images/games/nightreign.png"
 tags: [games, review]
+layout: _post.html
 ---
 
 ## Implementation Notes

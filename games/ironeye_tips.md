@@ -4,6 +4,7 @@ draft: false
 title: "Ironeye Tips"
 hero_path: "images/games/nightreign.png"
 tags: [games, nightreign, tips]
+layout: _post.html
 ---
 
 Will do less damage than other characters, but does it more consistently and can set up the whole team for more damage. His passive helps everyone find rarer items, he can quickly/safely apply status effects and the mark from his character skill gives big staggers/bursts of damage.

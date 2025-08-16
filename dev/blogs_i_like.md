@@ -3,6 +3,7 @@ date: "2025-08-15T18:43:11+09:00"
 draft: false
 title: "Blogs I Enjoy"
 tags: [dev]
+layout: _post.html
 ---
 
 ## [Josh w Comeau](https://www.joshwcomeau.com/)

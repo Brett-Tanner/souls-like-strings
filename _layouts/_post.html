@@ -1,0 +1,11 @@
+---
+layout: _base.html
+---
+
+<main>
+  <h1>{{ title }}</h1>
+  <p>{{ date | date: "%B %d, %Y" }}</p>
+  {%- for tag in tags -%}
+  <a href="/tags/{{ tag }}">#{{ tag }}</a>
+  {%- endfor -%} {{ content }}
+</main>

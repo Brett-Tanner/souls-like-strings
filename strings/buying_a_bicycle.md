@@ -3,6 +3,7 @@ date: "2025-06-21T19:49:29+09:00"
 draft: false
 title: "Buying a bicycle"
 tags: [strings]
+layout: _post.html
 ---
 
 ## Incidentals
