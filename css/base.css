@@ -1,0 +1,89 @@
+/* Generic styles */
+:root {
+	--background-color: #181a20;
+	--border-radius: 0.5rem;
+	--gap: 1rem;
+	--padding: 1rem;
+	--text-color: #fafafa;
+}
+
+body {
+	margin: 0;
+	background-color: var(--background-color);
+	color: var(--text-color);
+	font-family: Avenir, "Avenir Next LT Pro", Montserrat, Corbel, "URW Gothic",
+		source-sans-pro, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+	color: var(--text-color);
+}
+
+h1,
+h2,
+h3 {
+	margin-block: calc(var(--padding) * 0.5);
+}
+
+p,
+ul,
+ol {
+	margin-inline-end: calc(var(--padding) * 2);
+}
+
+/* Components */
+
+.spacer {
+	flex: 1;
+}
+
+/* UI Sections */
+
+header {
+	position: sticky;
+	top: 0;
+	background: linear-gradient(to bottom,
+			var(--background-color) 0%,
+			transparent 100%);
+	backdrop-filter: blur(2px);
+	padding: calc(var(--padding) * 0.75);
+
+	nav {
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-between;
+		align-items: center;
+		gap: var(--gap);
+		font-weight: bold;
+
+		a {
+			text-decoration: none;
+
+			&:first-child {
+				font-size: 1.5rem;
+			}
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+main {
+	max-width: 70ch;
+	padding: var(--padding);
+	margin: auto;
+	line-height: 1.75;
+	font-size: 1.25em;
+}
+
+footer {
+	nav {
+		display: flex;
+		flex-flow: row wrap;
+		gap: var(--gap);
+		padding: var(--padding);
+	}
+}

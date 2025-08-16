@@ -4,13 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }} | Souls Like Strings</title>
+    <link rel="stylesheet" href="/css/base.css" />
+    {% if stylesheets %} {% for stylesheet in stylesheets %}
+    <link rel="stylesheet" href="/css/{{ stylesheet }}.css" />
+    {% endfor %} {% endif %}
   </head>
   <body>
     <header>
-      <a href="/">Souls Like Strings</a>
-      {%- for collection in collections.collectionList -%}
-      <a href="/{{ collection }}">{{ collection | capitalize }}</a>
-      {%- endfor -%}
+      <nav>
+        <a href="/">Souls Like Strings</a>
+        <div class="spacer"></div>
+        {%- for collection in collections.collectionList -%}
+        <a href="/{{ collection }}">{{ collection | capitalize }}</a>
+        {%- endfor -%}
+      </nav>
     </header>
 
     {{ content }}

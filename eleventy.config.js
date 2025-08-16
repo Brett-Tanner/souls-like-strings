@@ -2,7 +2,8 @@
 
 export default async function (eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
-	eleventyConfig.addPassthroughCopy("_styles");
+	eleventyConfig.addPassthroughCopy("css");
+	eleventyConfig.addWatchTarget("css");
 
 	eleventyConfig.addCollection("tagsList", (collectionApi) => {
 		const tagsList = new Set();

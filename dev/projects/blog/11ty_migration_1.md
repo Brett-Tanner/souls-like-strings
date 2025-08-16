@@ -7,7 +7,7 @@ layout: _post.html
 ---
 
 {% raw %}
-After managing to stick to at least one weekly post for a few months I've decided to reward myself with the true purpose of a personal blog - having an excuse to tinker with new stuff.
+After managing to stick to at least one weekly post for a few months I've decided to reward myself with the true purpose of a personal blog - tinkering.
 
 I started off on Hugo with the [Bear Cub](https://github.com/clente/hugo-bearcub) theme so I had no excuse to put off writing while I worked on 'essential' features, but now it's time to make my personal site a bit more _personal_.
 
@@ -79,6 +79,12 @@ I already had infinte ideas for cool styles to apply, so in the interests of not
 - post content is justified & limited to [~80 characters](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html)
 - links look decent, but still underlined
 - the nav header doesn't look terrible
+
+You need to explicitly tell 11ty to watch your css files for some reason, which can be done with
+
+```
+eleventyConfig.addWatchTarget(`${pathToFile}`);
+```
 
 According to [swyx](https://www.swyx.io/line-lengths) `ch` is a decent approximation for character count, so I set `max-width: 70ch` on all `main` elements. I also copied the rest of the content styles from [100 Bytes of CSS](https://www.swyx.io/css-100-bytes) on that blog since they looked like a decent starting point, though I applied them to `main` rather than `html` since I want the freedom to style everything else however I want.
 

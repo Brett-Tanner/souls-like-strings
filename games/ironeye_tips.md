@@ -3,7 +3,7 @@ date: "2025-05-30T18:29:02+09:00"
 draft: false
 title: "Ironeye Tips"
 hero_path: "images/games/nightreign.png"
-tags: [games, nightreign, tips]
+tags: [games, tips]
 layout: _post.html
 ---
 

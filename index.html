@@ -4,21 +4,27 @@ eleventyImport:
 eleventyExcludeFromCollections: true
 layout: _base.html
 title: Home
+stylesheets: [home]
 ---
 
 {% assign allPosts = collections.all | reverse | limit: 5 %}
 
 <h1>Souls Like Strings</h1>
 
-{%- for post in allPosts -%}
-<article>
-  <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
-  <p>{{ post.content | truncatewords: 100 }}</p>
-</article>
-{%- endfor -%}
-
-<ul>
-  {%- for tag in collections.tagsList -%}
-  <li>#{{ tag }}</li>
+<main>
+  {%- for post in allPosts -%}
+  <article>
+    <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
+    <div>{{ post.content | truncatewords: 100 }}</div>
+    <a href="{{ post.url }}">Continue reading</a>
+  </article>
   {%- endfor -%}
-</ul>
+</main>
+
+<footer>
+  <nav>
+    {%- for tag in collections.tagsList -%}
+    <a href="/tags/{{ tag }}">#{{ tag }}</a>
+    {%- endfor -%}
+  </nav>
+</footer>

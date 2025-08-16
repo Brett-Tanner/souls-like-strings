@@ -1,0 +1,24 @@
+h1 {
+	font-size: 5rem;
+	text-align: center;
+}
+
+main {
+	display: flex;
+	flex-flow: row wrap;
+	gap: var(--gap);
+	padding: var(--padding);
+}
+
+article {
+	display: flex;
+	flex-flow: column nowrap;
+	gap: 1rem;
+	border: 1px dashed var(--text-color);
+	padding: var(--padding);
+	border-radius: var(--border-radius);
+
+	a:last-child {
+		align-self: flex-end;
+	}
+}
