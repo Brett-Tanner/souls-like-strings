@@ -5,13 +5,15 @@
 	--gap: 1rem;
 	--padding: 1rem;
 	--text-color: #fafafa;
+	--header-height: 2.5rem;
 }
 
 body {
 	margin: 0;
 	background-color: var(--background-color);
 	color: var(--text-color);
-	font-family: Avenir, "Avenir Next LT Pro", Montserrat, Corbel, "URW Gothic",
+	font-family:
+		Avenir, "Avenir Next LT Pro", Montserrat, Corbel, "URW Gothic",
 		source-sans-pro, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
 		"Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -56,6 +58,7 @@ header {
 		align-items: center;
 		gap: var(--gap);
 		font-weight: bold;
+		height: var(--header-height);
 
 		a {
 			text-decoration: none;
@@ -67,6 +70,11 @@ header {
 			&:hover {
 				text-decoration: underline;
 			}
+		}
+
+		svg {
+			height: 1.5rem;
+			width: auto;
 		}
 	}
 }

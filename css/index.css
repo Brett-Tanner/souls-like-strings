@@ -11,12 +11,18 @@ main {
 }
 
 article {
+	width: 100%;
 	display: flex;
 	flex-flow: column nowrap;
 	gap: 1rem;
 	border: 1px dashed var(--text-color);
 	padding: var(--padding);
 	border-radius: var(--border-radius);
+
+	.content {
+		font-size: 80%;
+		line-height: 1.5;
+	}
 
 	a:last-child {
 		align-self: flex-end;

@@ -19,7 +19,7 @@ eleventyComputed:
   {%- for post in allPosts -%}
   <article>
     <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
-    <div>{{ post.content | truncatewords: 100 }}</div>
+    <div class="content">{{ post.content | truncatewords: 100 }}</div>
     <a href="{{ post.url }}">Continue reading</a>
   </article>
   {%- endfor -%}

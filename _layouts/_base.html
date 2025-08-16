@@ -17,7 +17,13 @@
         {%- for collection in collections.collectionList -%}
         <a href="/tags/{{ collection | slugify }}">{{ collection | capitalize }}</a>
         {%- endfor -%}
-      </nav>
+		<a href="https://github.com/Brett-Tanner">
+			{% include "icons/github.svg" %}
+		</a>
+		<a href="/feed.xml">
+			{% include "icons/rss.svg" %}
+		</a>
+	  </nav>
     </header>
 
     {{ content }}
