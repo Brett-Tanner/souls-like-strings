@@ -15,7 +15,7 @@
         <a href="/">Souls Like Strings</a>
         <div class="spacer"></div>
         {%- for collection in collections.collectionList -%}
-        <a href="/{{ collection }}">{{ collection | capitalize }}</a>
+        <a href="/tags/{{ collection | slugify }}">{{ collection | capitalize }}</a>
         {%- endfor -%}
       </nav>
     </header>

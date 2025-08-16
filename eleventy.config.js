@@ -12,7 +12,7 @@ export default async function (eleventyConfig) {
 				item.data.tags.map((tag) => tagsList.add(tag));
 			}
 		});
-		return tagsList;
+		return Array.from(tagsList);
 	});
 	// I'm commiting to the first tag always being the collection
 	eleventyConfig.addCollection("collectionList", (collectionApi) => {

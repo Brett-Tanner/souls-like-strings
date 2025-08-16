@@ -1,15 +1,19 @@
 ---
-eleventyImport:
-  collections: [all]
+pagination:
+  data: collections.tagsList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag | slugify }}/"
 eleventyExcludeFromCollections: true
 layout: _base.html
-title: Home
 stylesheets: [index]
+eleventyComputed:
+  title: "{{ tag | capitalize }}"
 ---
 
-{% assign allPosts = collections.all | reverse | limit: 5 %}
+{% assign allPosts = collections[ tag ] | reverse %}
 
-<h1>Souls Like Strings</h1>
+<h1>{{ tag | capitalize }}</h1>
 
 <main>
   {%- for post in allPosts -%}
