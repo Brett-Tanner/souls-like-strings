@@ -45,8 +45,4 @@ export default async function(eleventyConfig) {
 		});
 		return collectionsList;
 	});
-
-	eleventyConfig.addFilter("limit", (array, limit) => {
-		return array.slice(0, limit);
-	});
 }

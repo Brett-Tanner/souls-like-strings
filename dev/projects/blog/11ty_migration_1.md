@@ -73,7 +73,7 @@ After that lesson in web standards and basic logic, nesting layouts turned out t
 
 ## Styling
 
-I already had infinte ideas for cool styles to apply, so in the interests of not spending an entire week on this I strictly limited myself to:
+I already had infinite ideas for cool styles to apply, so in the interests of not spending an entire week on this I strictly limited myself to:
 
 - default font styles & background color
 - post content is justified & limited to [~80 characters](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html)
@@ -111,6 +111,6 @@ One place I don't need pagination is my RSS feed, which is up next.
 
 Since there's a [plugin](https://www.11ty.dev/docs/plugins/rss/) for RSS and I just need to get it up and running for now, I used that. For once in my life the setup was exactly as simple as advertised, nice job plugin authors. And with that, step one of the migration is done! Woo! ~6 hours all up to get it to a point where I felt like I could deploy it instead of the existing version, not too bad.
 
-Next post will be either on styling or paginating the tag pages, depending on what I feel like at the time.
+Next post will be either on styling (maybe light/dark modes or a favicon) or paginating the tag pages, depending on what I feel like at the time.
 
 {% endraw %}

@@ -1,4 +1,8 @@
 ---
+pagination:
+  data: collections.all
+  size: 5
+  reverse: true
 eleventyImport:
   collections: [all]
 eleventyExcludeFromCollections: true
@@ -7,7 +11,7 @@ title: Home
 stylesheets: [index]
 ---
 
-{% assign allPosts = collections.all | reverse | limit: 5 %}
+{% assign allPosts = pagination.items %}
 
 <h1>Souls Like Strings</h1>
 
@@ -21,7 +25,20 @@ stylesheets: [index]
   {%- endfor -%}
 </main>
 
+<nav class="pagination">
+  {% if pagination.previous %}
+  <a href="{{ pagination.previous }}">&lt; Newer Posts</a>
+  {% endif %}
+
+  <div class="spacer"></div>
+
+  {% if pagination.next %}
+  <a href="{{ pagination.next }}">Older Posts &gt;</a>
+  {% endif %}
+</nav>
+
 <footer>
+  <h3>Tags</h3>
   <nav>
     {%- for tag in collections.tagsList -%}
     <a href="/tags/{{ tag | slugify }}">#{{ tag }}</a>
