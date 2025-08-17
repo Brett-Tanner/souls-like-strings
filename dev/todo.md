@@ -16,14 +16,17 @@ layout: _post.html
 
 - Light/dark themes
   - localStorage
-- Make a favicon/site logo [here](https://yqnn.github.io/svg-path-editor/)
+- Add custom published/drafts filters an use them to make a drafts page
+- Fire effect animation on the main title?
+  - Probably need a reduced motion media query on that one
+- Make a site logo [here](https://yqnn.github.io/svg-path-editor/)
   - Pixel style?
   - Bonfire, with final boss veigar colors?
+  - animate it?
 - Animated gradient on link hover
 - Custom styles per category
   - list icons
   - colors (through CSS var overrides)
-- Add custom published/drafts filters an use them to make a drafts page
 
 ## Spending Tracker
 
