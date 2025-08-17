@@ -8,6 +8,12 @@ layout: _post.html
 
 ## This Blog
 
+- legacy 'something' series about vault stuff
+
+  - optimising list endpoint
+  - class component refactors
+  - store types?
+
 - Modal category links on mobile
   - Try [commandfor](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button#commandfor)
 - Light/dark themes using [light-dark](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark)

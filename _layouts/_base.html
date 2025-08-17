@@ -14,18 +14,25 @@
       <nav>
         <a href="/">Souls Like Strings</a>
         <div class="spacer"></div>
-        {%- for collection in collections.collectionList -%}
-        <a href="/tags/{{ collection | slugify }}">{{ collection | capitalize }}</a>
-        {%- endfor -%}
-		<a href="https://github.com/Brett-Tanner">
-			{% include "icons/github.svg" %}
-		</a>
-		<a href="/feed.xml">
-			{% include "icons/rss.svg" %}
-		</a>
+		{% include "_nav_links.html" %}
+		<button commandfor="nav-dialog">Categories</button>
+		<dialog id="nav-dialog">
+		  <form action="" method="dialog">
+			<button type="submit">
+				{% include "icons/close.svg" %}
+			</button>
+		  </form>
+		  {% include "_nav_links.html" %}
+		</dialog>
 	  </nav>
     </header>
 
     {{ content }}
   </body>
+
+  <script defer>
+	const dialog = document.querySelector("dialog");
+	const button = document.querySelector("button");
+	button.addEventListener("click", () => dialog.showModal());
+  </script>
 </html>

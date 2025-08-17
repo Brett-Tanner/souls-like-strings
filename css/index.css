@@ -15,7 +15,7 @@ article {
 	display: flex;
 	flex-flow: column nowrap;
 	gap: 1rem;
-	border: 1px dashed var(--text-color);
+	border: var(--border);
 	padding: var(--padding);
 	border-radius: var(--border-radius);
 
