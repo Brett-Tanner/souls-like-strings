@@ -14,8 +14,6 @@ layout: _post.html
   - class component refactors
   - store types?
 
-- Modal category links on mobile
-  - Try [commandfor](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button#commandfor)
 - Light/dark themes using [light-dark](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark)
 - Make a favicon/site logo [here](https://yqnn.github.io/svg-path-editor/)
   - Pixel style?

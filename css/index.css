@@ -28,3 +28,9 @@ article {
 		align-self: flex-end;
 	}
 }
+
+@media (max-width: 600px) {
+	article {
+		width: calc(100% - var(--padding) * 2);
+	}
+}

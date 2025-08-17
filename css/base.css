@@ -1,13 +1,13 @@
 /* Generic styles */
 :root {
-	--background-color: #181a20;
+	--background-color: #212121;
 	--border: 1px dashed var(--text-color);
 	--border-radius: 0.5rem;
 	--copy-size: 1.25rem;
 	--gap: 1.5rem;
 	--header-height: 2.5rem;
 	--padding: 1rem;
-	--text-color: #fafafa;
+	--text-color: #cccccc;
 }
 
 body {
