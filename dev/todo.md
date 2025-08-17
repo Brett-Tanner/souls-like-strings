@@ -14,7 +14,8 @@ layout: _post.html
   - class component refactors
   - store types?
 
-- Light/dark themes using [light-dark](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark)
+- Light/dark themes
+  - localStorage
 - Make a favicon/site logo [here](https://yqnn.github.io/svg-path-editor/)
   - Pixel style?
   - Bonfire, with final boss veigar colors?

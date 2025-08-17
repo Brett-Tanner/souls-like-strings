@@ -5,6 +5,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 export default async function(eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
 	eleventyConfig.addPassthroughCopy("css");
+	eleventyConfig.addPassthroughCopy("favicon.svg");
 	eleventyConfig.addWatchTarget("css");
 	eleventyConfig.setServerOptions({
 		showAllHosts: true,

@@ -1,13 +1,14 @@
 /* Generic styles */
 :root {
-	--background-color: #212121;
+	color-scheme: dark;
+	--background-color: light-dark(#f9f5ee, #212121);
 	--border: 1px dashed var(--text-color);
 	--border-radius: 0.5rem;
 	--copy-size: 1.25rem;
 	--gap: 1.5rem;
 	--header-height: 2.5rem;
 	--padding: 1rem;
-	--text-color: #cccccc;
+	--text-color: light-dark(#222222, #cccccc);
 }
 
 body {
@@ -106,6 +107,9 @@ header {
 		}
 
 		a {
+			display: flex;
+			align-items: center;
+			justify-content: center;
 			text-decoration: none;
 
 			&:hover,
@@ -136,13 +140,31 @@ header {
 			}
 		}
 
+		button.theme-toggle {
+			border: none;
+			cursor: pointer;
+
+			&.header {
+				margin-inline-start: calc(0rem - (var(--padding) / 2));
+			}
+
+			&.dialog {
+				margin-block-start: calc(0rem - (var(--padding) / 2));
+			}
+		}
+
 		svg {
 			height: var(--copy-size);
 			width: auto;
+
+			&.theme-toggle-icon {
+				fill: #f23d09;
+				stroke: #f23d09;
+			}
 		}
 
 		@media (min-width: 600px) {
-			button {
+			button[commandfor="nav-dialog"] {
 				display: none;
 			}
 		}

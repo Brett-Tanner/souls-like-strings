@@ -5,16 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }} | Souls Like Strings</title>
     <link rel="stylesheet" href="/css/base.css" />
+	<link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
     {% if stylesheets %} {% for stylesheet in stylesheets %}
     <link rel="stylesheet" href="/css/{{ stylesheet }}.css" />
     {% endfor %} {% endif %}
   </head>
   <body>
+	<script>
+		function currentTheme() {
+			return getComputedStyle(document.documentElement).colorScheme
+		}
+		function toggleTheme() {
+			const theme = currentTheme()
+			if (theme === "light") {
+				document.documentElement.style.colorScheme = "dark"
+			} else {
+				document.documentElement.style.colorScheme = "light"
+			}
+		}
+	</script>
+
     <header>
       <nav>
         <a href="/">Souls Like Strings</a>
         <div class="spacer"></div>
-		{% include "_nav_links.html" %}
+		{% assign container = "header" %}{% include "_nav_links.html" %}
 		<button commandfor="nav-dialog">Categories</button>
 		<dialog id="nav-dialog">
 		  <form action="" method="dialog">
@@ -22,7 +37,7 @@
 				{% include "icons/close.svg" %}
 			</button>
 		  </form>
-		  {% include "_nav_links.html" %}
+		  {% assign container = "dialog" %}{% include "_nav_links.html" %}
 		</dialog>
 	  </nav>
     </header>
@@ -32,7 +47,12 @@
 
   <script defer>
 	const dialog = document.querySelector("dialog");
-	const button = document.querySelector("button");
-	button.addEventListener("click", () => dialog.showModal());
+	const dialogToggle = document.querySelector("button[commandfor=nav-dialog]");
+	dialogToggle.addEventListener("click", () => dialog.showModal());
+
+	const themeToggles = document.querySelectorAll(".theme-toggle");
+	for (const themeToggle of [...themeToggles]) {
+		themeToggle.addEventListener("click", toggleTheme);
+	}
   </script>
 </html>
