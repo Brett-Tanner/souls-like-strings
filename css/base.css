@@ -164,7 +164,7 @@ header {
 }
 
 main {
-	max-width: 70ch;
+	max-width: min(70ch, 90%);
 	padding: var(--padding);
 	margin: auto;
 	line-height: 1.75;
