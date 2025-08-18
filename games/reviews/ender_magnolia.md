@@ -7,7 +7,7 @@ tags: [games, review]
 layout: _post.html
 ---
 
-The Assassins Creed 2 of video game sequels.
+> The Assassins Creed 2 of video game sequels.
 
 ## Why
 

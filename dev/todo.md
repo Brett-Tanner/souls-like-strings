@@ -16,6 +16,7 @@ layout: _post.html
 
 - Light/dark themes
   - localStorage
+- Style blockquotes
 - Add custom published/drafts filters an use them to make a drafts page
 - Fire effect animation on the main title?
   - Probably need a reduced motion media query on that one

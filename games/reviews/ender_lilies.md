@@ -7,7 +7,7 @@ tags: [games, review]
 layout: _post.html
 ---
 
-Smol girl with big スタンド.
+> Smol girl with big スタンド.
 
 ## Why
 

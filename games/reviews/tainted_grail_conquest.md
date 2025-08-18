@@ -7,7 +7,7 @@ tags: [games, review]
 layout: _post.html
 ---
 
-A story-driven roguelike deckbuilder based on Arthurian legends.
+> A story-driven roguelike deckbuilder based on Arthurian legends.
 
 ## Why
 

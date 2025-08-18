@@ -7,7 +7,7 @@ tags: [games, review]
 layout: _post.html
 ---
 
-What if Jesus where a blue haired teenage girl?
+> What if Jesus where a blue haired teenage girl?
 
 ## Why
 

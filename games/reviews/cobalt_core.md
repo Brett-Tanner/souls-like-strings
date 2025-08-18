@@ -7,7 +7,7 @@ tags: [games, review]
 layout: _post.html
 ---
 
-Breaking out of time loops with the power of friendship.
+> Breaking out of time loops with the power of friendship.
 
 ## Why
 

@@ -7,7 +7,7 @@ tags: [games, review, tips]
 layout: _post.html
 ---
 
-Charming cultists conspire, cockily causing calamities.
+> Charming cultists conspire, cockily causing calamities.
 
 ## Why
 
