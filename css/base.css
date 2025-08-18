@@ -158,8 +158,7 @@ header {
 			width: auto;
 
 			&.theme-toggle-icon {
-				fill: #f23d09;
-				stroke: #f23d09;
+				color: #f23d09;
 			}
 		}
 
