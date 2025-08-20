@@ -1,6 +1,5 @@
 /* Generic styles */
 :root {
-	color-scheme: dark;
 	--background-color: light-dark(#f9f5ee, #212121);
 	--border: 1px dashed var(--text-color);
 	--border-radius: 0.5rem;
@@ -9,6 +8,9 @@
 	--header-height: 2.5rem;
 	--padding: 1rem;
 	--text-color: light-dark(#222222, #cccccc);
+
+	color-scheme: dark;
+	scroll-padding-top: calc(var(--header-height) + (var(--padding) * 4));
 }
 
 body {

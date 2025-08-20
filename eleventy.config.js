@@ -1,5 +1,6 @@
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
+import { IdAttributePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 
 export default async function(eleventyConfig) {
@@ -11,6 +12,7 @@ export default async function(eleventyConfig) {
 		showAllHosts: true,
 	});
 
+	eleventyConfig.addPlugin(IdAttributePlugin);
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "rss",
 		outputPath: "/feed.xml",
