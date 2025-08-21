@@ -9,6 +9,9 @@
     {% if stylesheets %} {% for stylesheet in stylesheets %}
     <link rel="stylesheet" href="/css/{{ stylesheet }}.css" />
     {% endfor %} {% endif %}
+    {% if scripts %} {% for script in scripts %}
+    <script defer type="module" src="/scripts/{{ script }}.js" />
+    {% endfor %} {% endif %}
   </head>
   <body>
 	<script>

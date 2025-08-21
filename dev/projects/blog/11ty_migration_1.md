@@ -23,7 +23,7 @@ I settled on 11ty as that seems to be what a lot of the people I read are using,
 
 ## Existing Content
 
-Getting the actual content migrated was dead easy, as planned having everrything in Markdown made it just drag and drop. I just migrated my frontmatter from '+++' to '---', double-quoted any titles with ':' in them and off I went.
+Getting the actual content migrated was dead easy; as planned having everrything in Markdown made it just drag and drop. I just migrated my frontmatter from '+++' to '---', double-quoted any titles with ':' in them and off I went.
 
 The first stumbling block was building the site and realising no theme means needing to create an `index.html`, but the freedom of starting from a blank slate is part of why I'm doing this. Even when I started the blog originally with a set and forget template, I couldn't resist vendoring it and makings some 'improvements'.
 

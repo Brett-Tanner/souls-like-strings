@@ -70,8 +70,63 @@ dialog form[method="dialog"] {
 
 /* Components */
 
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .spacer {
 	flex: 1;
+}
+
+.heading-link {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	align-items: center;
+	gap: calc(var(--gap) / 3);
+	text-decoration: none;
+
+	svg {
+		transition: all 0.2s cubic-bezier();
+		transform: rotate(45deg);
+
+		&:active {
+			transform: rotate(55deg) scale(0.9);
+		}
+	}
+}
+
+#table-of-contents {
+	position: fixed;
+	top: calc(var(--header-height) + (var(--padding) * 3));
+	right: calc(var(--padding) * 3);
+	font-size: 90%;
+	max-width: 20vw;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: calc(var(--gap) / 2);
+	border: var(--border);
+	border-radius: var(--border-radius);
+	padding: var(--padding);
+	background-color: var(--background-color);
+
+	a {
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+@media (max-width: 1150px) {
+	.table-of-contents {
+		display: none;
+	}
 }
 
 nav.pagination {

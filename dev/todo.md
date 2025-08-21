@@ -14,6 +14,7 @@ layout: _post.html
   - class component refactors
   - store types?
 
+- Do I need a web component for the table of contents?
 - Light/dark themes
   - localStorage
 - Style blockquotes
@@ -28,6 +29,7 @@ layout: _post.html
 - Custom styles per category
   - list icons
   - colors (through CSS var overrides)
+- Make table of contents a details element on mobile? or work somehow there
 
 ## Spending Tracker
 
