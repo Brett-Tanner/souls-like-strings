@@ -68,6 +68,14 @@ dialog form[method="dialog"] {
 	color: var(--text-color);
 }
 
+pre {
+	white-space: pre-wrap;
+	word-break: break-word;
+	border: var(--border);
+	border-radius: var(--border-radius);
+	padding: calc(var(--padding) / 2);
+}
+
 /* Components */
 
 .center {
@@ -124,7 +132,7 @@ dialog form[method="dialog"] {
 }
 
 @media (max-width: 1150px) {
-	.table-of-contents {
+	#table-of-contents {
 		display: none;
 	}
 }
