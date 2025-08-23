@@ -12,15 +12,13 @@ class HeadingAnchors extends HTMLElement {
 
 	connectedCallback() {
 		const headings = document.querySelectorAll("h2[id]");
-		if (headings.length < 2) {
-			this.tableOfContents.style.display = "none";
-			return;
+		if (headings.length > 1) {
+			this.tableOfContents.style.display = "flex";
+			headings.forEach((heading) => {
+				this.anchorifyHeading(heading);
+				this.tableOfContents.appendChild(this.tableOfContentsLink(heading));
+			});
 		}
-
-		headings.forEach((heading) => {
-			this.anchorifyHeading(heading);
-			this.tableOfContents.appendChild(this.tableOfContentsLink(heading));
-		});
 	}
 
 	anchorifyHeading(heading) {
