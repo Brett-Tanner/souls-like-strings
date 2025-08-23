@@ -20,8 +20,7 @@ body {
 	margin: 0;
 	background-color: var(--background-color);
 	color: var(--text-color);
-	font-family:
-		Avenir, "Avenir Next LT Pro", Montserrat, Corbel, "URW Gothic",
+	font-family: Avenir, "Avenir Next LT Pro", Montserrat, Corbel, "URW Gothic",
 		source-sans-pro, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
 		"Segoe UI Symbol", "Noto Color Emoji";
 	font-size: var(--copy-size);
@@ -60,6 +59,16 @@ p,
 ul,
 ol {
 	margin-inline-end: calc(var(--padding) * 2);
+}
+
+ol {
+	list-style: none;
+	counter-reset: start -1;
+
+	li::before {
+		content: counter(start) ". ";
+		counter-increment: start;
+	}
 }
 
 dialog form[method="dialog"] {
@@ -237,7 +246,8 @@ header {
 		dialog {
 			height: 80vh;
 			width: 80vw;
-			background: radial-gradient(var(--background-color) 40%, transparent 100%);
+			background: radial-gradient(var(--background-color) 40%,
+					transparent 100%);
 			backdrop-filter: blur(2px);
 			border: var(--border);
 			border-radius: var(--border-radius);
