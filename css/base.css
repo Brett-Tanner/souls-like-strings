@@ -67,12 +67,6 @@ h3 {
   text-wrap: balance;
 }
 
-p,
-ul,
-ol {
-  margin-inline-end: calc(var(--padding) * 2);
-}
-
 ol {
   list-style: none;
   counter-reset: start -1;
@@ -282,6 +276,10 @@ main {
   margin: auto;
   line-height: 1.75;
   font-size: var(--copy-size);
+
+  p {
+    text-align: justify;
+  }
 }
 
 footer {
