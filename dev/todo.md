@@ -14,7 +14,6 @@ layout: _post.html
   - class component refactors
   - store types?
 
-- Do I need a web component for the table of contents?
 - Style blockquotes
 - Add custom published/drafts filters an use them to make a drafts page
 - Fire effect animation on the main title?
