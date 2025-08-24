@@ -15,8 +15,6 @@ layout: _post.html
   - store types?
 
 - Do I need a web component for the table of contents?
-- Light/dark themes
-  - localStorage
 - Style blockquotes
 - Add custom published/drafts filters an use them to make a drafts page
 - Fire effect animation on the main title?

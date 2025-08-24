@@ -1,14 +1,17 @@
 function currentTheme() {
+	if (localStorage.getItem("theme")) return localStorage.getItem("theme");
+
 	return getComputedStyle(document.documentElement).colorScheme;
+}
+
+function changeThemeTo(theme) {
+	document.documentElement.style.colorScheme = theme;
+	localStorage.setItem("theme", theme);
 }
 
 function toggleTheme() {
 	const theme = currentTheme();
-	if (theme === "light") {
-		document.documentElement.style.colorScheme = "dark";
-	} else {
-		document.documentElement.style.colorScheme = "light";
-	}
+	theme === "light" ? changeThemeTo("dark") : changeThemeTo("light");
 }
 
 // There's one in the desktop nav & one in mobile dialog nav
@@ -16,4 +19,8 @@ function toggleTheme() {
 const themeToggles = document.querySelectorAll(".theme-toggle");
 for (const themeToggle of [...themeToggles]) {
 	themeToggle.addEventListener("click", toggleTheme);
+}
+
+if (localStorage.getItem("theme")) {
+	changeThemeTo(localStorage.getItem("theme"));
 }
