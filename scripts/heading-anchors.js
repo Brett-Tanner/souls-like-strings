@@ -13,7 +13,7 @@ class HeadingAnchors extends HTMLElement {
 	connectedCallback() {
 		const headings = document.querySelectorAll("h2[id]");
 		if (headings.length > 1) {
-			this.tableOfContents.style.display = "flex";
+			this.tableOfContents.classList.remove("hidden");
 			headings.forEach((heading) => {
 				this.anchorifyHeading(heading);
 				this.tableOfContents.appendChild(this.tableOfContentsLink(heading));

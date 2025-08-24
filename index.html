@@ -37,10 +37,5 @@ stylesheets: [index]
   {% endif %}
 </nav>
 
-<footer>
-  <nav>
-    {%- for tag in collections.tagsList -%}
-    <a href="/tags/{{ tag | slugify }}">#{{ tag }}</a>
-    {%- endfor -%}
-  </nav>
-</footer>
+{% assign tags = collections.tagsList %}
+{% include "_tag_list.html" with tags %}

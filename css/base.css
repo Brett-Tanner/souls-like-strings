@@ -104,6 +104,10 @@ pre {
   flex: 1;
 }
 
+.hidden {
+  display: none;
+}
+
 .heading-link {
   display: flex;
   flex-flow: row wrap;
@@ -150,6 +154,22 @@ pre {
 @media (max-width: 1150px) {
   #table-of-contents {
     display: none;
+  }
+}
+
+nav.tag-container {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap);
+}
+
+main {
+  nav.tag-container {
+    justify-content: flex-start;
+    margin-inline-start: calc(0rem - 2 * var(--padding));
   }
 }
 
@@ -289,11 +309,4 @@ footer {
   align-items: center;
   gap: var(--gap);
   padding: var(--padding);
-
-  nav {
-    display: flex;
-    flex-flow: row wrap;
-    gap: var(--gap);
-    padding: var(--padding);
-  }
 }

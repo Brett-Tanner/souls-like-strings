@@ -1,0 +1,7 @@
+<footer>
+  <nav class="tag-container">
+    {%- for tag in tags -%}
+    <a href="/tags/{{ tag | slugify }}">#{{ tag }}</a>
+    {%- endfor -%}
+  </nav>
+</footer>

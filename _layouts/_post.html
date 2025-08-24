@@ -4,12 +4,10 @@ scripts: ["heading-anchors"]
 ---
 
 <heading-anchors></heading-anchors>
-<nav id="table-of-contents" style="display: none"></nav>
+<nav id="table-of-contents" class="hidden"></nav>
 
 <main>
   <h1>{{ title }}</h1>
   <p>{{ date | date: "%B %d, %Y" }}</p>
-  {%- for tag in tags -%}
-  <a href="/tags/{{ tag }}">#{{ tag }}</a>
-  {%- endfor -%} {{ content }}
+  {% include "_tag_list.html" %} {{ content }}
 </main>
