@@ -6,6 +6,7 @@
   --copy-size: 1.25rem;
   --gap: 1.5rem;
   --header-height: 2.5rem;
+  --mobile-button-width: 2.5rem;
   --padding: 1rem;
   --text-color: light-dark(#222222, #cccccc);
 
@@ -78,6 +79,8 @@ ol {
 }
 
 dialog form[method="dialog"] {
+  width: var(--mobile-button-width);
+  aspect-ratio: 1;
   position: absolute;
   top: calc(0 - var(--padding));
   right: var(--padding);
@@ -266,8 +269,23 @@ header {
     }
 
     @media (min-width: 600px) {
-      button[commandfor="nav-dialog"] {
+      button.nav-dialog-toggle[commandfor="nav-dialog"] {
         display: none;
+      }
+    }
+
+    button[commandfor="nav-dialog"] {
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      width: var(--mobile-button-width);
+      aspect-ratio: 1;
+
+      .line {
+        width: 80%;
+        border: 1px solid var(--text-color);
       }
     }
 

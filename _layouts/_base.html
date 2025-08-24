@@ -21,7 +21,11 @@
         <a href="/">Souls Like Strings</a>
         <div class="spacer"></div>
 		{% assign container = "header" %}{% include "_nav_links.html" %}
-		<button commandfor="nav-dialog">Categories</button>
+		<button commandfor="nav-dialog" class="nav-dialog-toggle">
+			<div class="line"></div>
+			<div class="line"></div>
+			<div class="line"></div>
+		</button>
 		<dialog id="nav-dialog">
 		  <form action="" method="dialog">
 			<button type="submit">
