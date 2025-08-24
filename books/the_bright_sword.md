@@ -1,5 +1,5 @@
 ---
-date: "2025-08-30T17:29:02+09:00"
+date: "2025-08-04T17:29:02+09:00"
 draft: false
 title: "The Bright Sword"
 tags: [books, fiction, review]
