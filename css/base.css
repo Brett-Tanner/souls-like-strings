@@ -121,7 +121,7 @@ pre {
 	text-decoration: none;
 
 	svg {
-		transition: all 0.2s cubic-bezier();
+		transition: transform 0.2s cubic-bezier();
 		transform: rotate(45deg);
 
 		&:active {

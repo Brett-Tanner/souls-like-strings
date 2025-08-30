@@ -29,3 +29,13 @@ So many reasons, not least of which is that when I went to his blog to grab the 
 ### Why?
 
 If you also feel like there are too many frameworks/abstractions over what's a pretty decent web platform these days. Alex brings receipts for the negative impacts of libraries like React and offers actual solutions/alternatives, as well as examples of using those alternatives in real production sites. He also writes about the web platform and programming work other than writing code.
+
+## [Frontend Masters](https://frontendmasters.com/blog/)
+
+### Topics
+
+- ...Frontend
+
+### Why?
+
+They have a range of talented writers who do a great job breaking down the many, many features of CSS with examples. Also Chris Coyier's new home after selling CSS Tricks, so if you also learnt everything you know about grid and flexbox from him you'll feel right at home. They also sell courses but in my experience they're not pushy about it in the blog, just high quality articles on stuff you should be aware of as a frontend dev.
