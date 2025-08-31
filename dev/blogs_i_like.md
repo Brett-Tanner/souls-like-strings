@@ -39,3 +39,17 @@ If you also feel like there are too many frameworks/abstractions over what's a p
 ### Why?
 
 They have a range of talented writers who do a great job breaking down the many, many features of CSS with examples. Also Chris Coyier's new home after selling CSS Tricks, so if you also learnt everything you know about grid and flexbox from him you'll feel right at home. They also sell courses but in my experience they're not pushy about it in the blog, just high quality articles on stuff you should be aware of as a frontend dev.
+
+## Design Inspiration
+
+### [Henry from Online](https://henry.codes/)
+
+Love the newspaper look, the transitions between pages and the overall vibe. Unfortunately no RSS feed so actually reading it is a lost cause.
+
+### [Chris Kirk Nielsen](https://chriskirknielsen.com/)
+
+His theme toggle and the actual designs of the themes are really cool.
+
+### [Nic Chan](https://www.nicchan.me)
+
+Very cool windows 95/pixel art aesthetic, and the buttons on their windows actually minimize/maximise! I also want to know what they used to make their pixel art icons, almost exactly the look I'm going for.

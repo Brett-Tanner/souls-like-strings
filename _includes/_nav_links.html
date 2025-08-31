@@ -2,7 +2,7 @@
   {%- for collection in collections.collectionList -%}
   <a href="/tags/{{ collection | slugify }}">{{ collection | capitalize }}</a>
   {%- endfor -%}
-  <a href="https://github.com/Brett-Tanner">
+  <a href="https://github.com/Brett-Tanner" rel="me">
     {% include "icons/github.svg" %}
   </a>
   <a href="/feed.xml"> {% include "icons/rss.svg" %} </a>
