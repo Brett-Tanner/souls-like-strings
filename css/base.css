@@ -1,5 +1,6 @@
 /* Generic styles */
 :root {
+	--accent-color: #f23d09;
 	--background-color: light-dark(#f9f5ee, #212121);
 	--border: 1px dashed var(--text-color);
 	--border-radius: 0.5rem;
@@ -43,6 +44,15 @@ body {
 a {
 	color: var(--text-color);
 	font-weight: bold;
+	text-underline-offset: calc(var(--padding) / 3);
+	text-decoration-thickness: calc(var(--padding) / 8);
+
+	&:hover,
+	&:active {
+		text-decoration: underline !important;
+		text-decoration-color: var(--accent-color) !important;
+		text-decoration-thickness: calc(var(--padding) / 4) !important;
+	}
 }
 
 button {
@@ -152,10 +162,6 @@ pre {
 
 	a {
 		text-decoration: none;
-
-		&:hover {
-			text-decoration: underline;
-		}
 	}
 }
 
@@ -220,11 +226,6 @@ header {
 			align-items: center;
 			justify-content: center;
 			text-decoration: none;
-
-			&:hover,
-			&:active {
-				text-decoration: underline;
-			}
 		}
 
 		.nav-links {
@@ -267,7 +268,7 @@ header {
 			width: auto;
 
 			&.theme-toggle-icon {
-				color: #f23d09;
+				color: var(--accent-color);
 			}
 		}
 
