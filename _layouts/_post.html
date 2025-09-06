@@ -7,6 +7,6 @@ scripts: ["heading-anchors"]
 
 <main>
   <h1>{{ title }}</h1>
-  <p>{{ date | date: "%B %d, %Y" }}</p>
+  <time>{{ date | date: "%B %d, %Y" }}</time>
   {% include "_tag_list.html" %} {{ content }}
 </main>
