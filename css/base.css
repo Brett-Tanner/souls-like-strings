@@ -13,6 +13,7 @@
 
 	color-scheme: dark;
 	scroll-padding-top: calc(var(--header-height) + (var(--padding) * 4));
+	box-sizing: border-box;
 }
 
 @media (prefers-color-scheme: light) {
@@ -32,6 +33,7 @@ body {
 	flex-flow: column nowrap;
 	min-height: 100vh;
 	margin: 0;
+	padding-block-start: calc(var(--header-height) + (var(--padding) * 2));
 	background-color: var(--background-color);
 	color: var(--text-color);
 	font-family:
@@ -131,7 +133,7 @@ pre {
 	text-decoration: none;
 
 	svg {
-		transition: transform 0.2s cubic-bezier();
+		transition: transform 0.2s ease-in-out;
 		transform: rotate(45deg);
 
 		&:active {
@@ -140,7 +142,8 @@ pre {
 	}
 }
 
-#table-of-contents {
+#table-of-contents,
+#highlights {
 	position: fixed;
 	top: calc(var(--header-height) + (var(--padding) * 3));
 	right: calc(var(--padding) * 3);
@@ -200,8 +203,11 @@ nav.pagination {
 /* UI Sections */
 
 header {
-	position: sticky;
+	position: fixed;
 	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 999;
 	background: linear-gradient(to bottom,
 			var(--background-color) 0%,
 			transparent 100%);
