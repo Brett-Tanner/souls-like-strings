@@ -159,6 +159,13 @@ pre {
 	padding: var(--padding);
 	background-color: var(--background-color);
 
+	h2:first-child {
+		margin: 0;
+		text-decoration: underline;
+		text-decoration-color: var(--accent-color);
+		text-decoration-thickness: calc(var(--padding) / 4);
+	}
+
 	&.hidden {
 		display: none;
 	}

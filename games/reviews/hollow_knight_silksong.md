@@ -10,9 +10,17 @@ Since I'm doing something unusual by playing a game on release, I decided to com
 
 I've grouped my thoughts by area, in the order I encountered them, which might not necessarily be the order you encounter them in. If you need to get pastan area you haven't seen without spoilers to see one you have, clicking the table of contents on the right should jump you to the area you want without revealing anything above it. It might reveal stuff below it depending on screen-size/paragraph-length though, so probably don't do that on second thoughts.
 
-I'll start each section off with some vague, spoiler-free tips I would've found helpful for getting through the area to minimize the risk of spoilers, then dive into my impressions. I'm 5 hours in as a start writing this and absolutely loving it, so if you're on the fence about getting the game I can wholeheartedly say go for it! It's definitely harder earlier than Hollow Knight, but you have more tools to start with and get even more fairly quickly. Time to set off on my pilgrimage!
+I'll start each section off with some vague, spoiler-free tips I would've found helpful for getting through the area to minimize the risk of spoilers, then dive into my impressions.
 
-## Starting Area
+## Overall Impressions
+
+I'm 5 hours in as a start writing this and absolutely loving it, so if you're on the fence about getting the game I can wholeheartedly say go for it! It's definitely harder earlier than Hollow Knight, but you have more tools to start with and get even more fairly quickly.
+
+Animations are so slick, there's something for absolutely everything. You glide back a bit before changing directions, jumping immediately after a ledge grab lets you immediately jump again while doing a bunch of backflips, Hornet flips away from the enemy after pogo-ing... the list goes on. You can tell just from this that they really took their time making everything perfect.
+
+Time to set off on my pilgrimage!
+
+## Bone Bottom
 
 ### Hints
 
@@ -40,7 +48,7 @@ None of those are available for you to worry about yet though, so off you head t
 - Shy bug in room full of bells
 - Side-quest board under construction
 
-## Marrow
+## The Marrow
 
 ### Hints
 
@@ -63,6 +71,7 @@ I ended up getting frustrated enough to watch a video of someone else beating hi
   - I tried luring one into the shaft up into the hidden room and pogo-ing on it, but not enough height
 - Totally innocent guy trapped by cruel light hoarder
 - Guy who leaves creepy messages on his ground floor and lives(?) at the top of a platform-less vertical shaft
+- Big scary skull thing right at the top on the left wall
 - What's the black thing that falls out of my cocoon when it breaks and why does it look like me?
   - Am I a void/spider hybrid or something?
 
@@ -81,18 +90,29 @@ Speaking of fun, the white lady also wielding a needle is a great fight, the fir
 
 I completely missed the forge lady for way too long despite her being just right of the bench, she seems cool and has a nice little relationship with her shovel buddy. Looking forward to unlocking the crafting kit and actually having something to use my overflowing crafting shards on, but I spent all my rosaries and there's so much to save up for...
 
+### Mysteries Uncovered
+
+- The tantalizingly close jump above Bone Bottom is now possible with the dash, and hiding a roof monster that spews acid at you
+  - Running past it is a viable tactic to find the secret at the end of the path, but I'll come back to beat it when I have more tools
+
 ### Mysteries
 
 - Got one half of... something, where's the other?
 - Big door at the bottom left, maybe opened with the completed something?
 
-## Hunting Grounds
+## Far Fields
 
 ### Hints
 
 ### Thoughts
 
+I actually thought this Hunter's March until I looked at the overall world map, guess there's still a whole area I haven't explored in the early game. I initially ran straight through the bottom of this area, then up to the top and what's presumably the final bench. Judging by the sheer number of hot air columns near the end I guess I was meant to go up and unlock the ability to fly up on those like Hornet does in the trailer, but I'll get back to that later. Speaking of the final bench, requiring (not cheap!) payment every time you want to access a bench is borderline sadistic. Not a fan of that at all, Pharloom capitalists.
+
+This is where the enemy complexity really starts ramping up, flying guys who slash all around instead of charging in a straight line, ants with ranged, dash and digging attacks and bigger ants with a subset of the last boss' moveset. But most fearsome of all are the little shadow dudes just hanging out under shrubbery trying to live their lives. The don't aggro you at all, just contact damage, but they make platforming annoying enough and provide easy enough silk refills that I've killed more than I'm comfortable with. How people treat these lil' guys is a far more accurate personality test than Myers-Briggs.
+
 ### Mysteries
+
+## Hunter's March
 
 ## Pale Marsh
 
