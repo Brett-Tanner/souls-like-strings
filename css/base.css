@@ -110,6 +110,12 @@ dialog form[method="dialog"] {
 	color: var(--text-color);
 }
 
+code,
+pre {
+	color: var(--accent-color);
+	font-size: calc(var(--copy-size) * 0.9);
+}
+
 pre {
 	white-space: pre-wrap;
 	word-break: break-word;
