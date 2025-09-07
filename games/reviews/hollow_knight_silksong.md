@@ -53,6 +53,8 @@ None of those are available for you to worry about yet though, so off you head t
 ### Hints
 
 - Seems like you should always head toward unusual sounds in this game.
+- Having the key is not the only way to break someone out of prison.
+  - If you're confused, your good friend Minsc and his buddy Boo likely have some ideas
 - If you find yourself thinking 'gee whiz, this would be so much easier with a dash'... remember you're playing a metroidvania.
   - Or, use the terrain to limit your opponent's options
 
