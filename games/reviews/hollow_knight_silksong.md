@@ -154,3 +154,10 @@ Having said that I was so, so happy to finally see map lady and get an overview 
   - So far sidequests either seem to give a meaningful reward of just require something you already have, which is nice
 
 ### Mysteries
+
+## Summary
+
+### Highlights
+
+- The first Lace fight is a spectacular first 'real' boss fight
+- Clearing Hunter's March is brutal, but so, so satisfying and forces you to actually learn how to play
