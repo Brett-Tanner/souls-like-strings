@@ -164,7 +164,7 @@ pre {
 	top: calc(var(--header-height) + (var(--padding) * 3));
 	right: calc(var(--padding) * 3);
 	font-size: 90%;
-	max-width: 20vw;
+	max-width: 13vw;
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: flex-start;
@@ -297,9 +297,19 @@ header {
 		svg {
 			height: var(--copy-size);
 			width: auto;
+			fill: var(--text-color);
+			stroke: var(--text-color);
+
+			&.mail:hover {
+				fill: var(--accent-color);
+			}
+
+			&.rss:hover {
+				stroke: var(--accent-color);
+			}
 
 			&.theme-toggle-icon {
-				color: var(--accent-color);
+				stroke: var(--accent-color);
 			}
 		}
 
