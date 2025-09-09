@@ -88,7 +88,7 @@ I ended up getting frustrated enough to watch a video of someone else beating hi
 
 Another step up in enemy design, now we have flying enemies that lob stuff at you from range and spear guys with reach on their attacks. Also the fact they're wearing helmets stops you from damaging them by pogo-ing, and actually deflects projectiles which hit them there. Cool little detail. ANother cool little detail is that you can parry the rocks the flying guys throw at you right back at them, or at other enemies. The shield guys are criminally underused here, their attacks are so fun and the have at least 2, maybe 3 of them. Hopefully more of them behind that door at the bottom, the room where you have to fight all the enemies from this area was a lot of fun.
 
-Speaking of fun, the white lady also wielding a needle is a great fight, the first one so far I really enjoyed. She has so many moves but they're all fair and give windows to punish, though you've gotta be quick to not get parried. You can even dodge the counterattack part of the parry if you're quick enough. Her phase two AOE attack she telegraphs beforehand looks really cool and compensates by messing you up if it hits by giving you a free hit when she lands. If you take your time to learn the moveset and stay away from the edges of the platform (most of my deaths) you'll have a great time beating her in a reasonable number of attempts. Also should point out I love the ability to grab your cocoon from most boss rooms and just leave, skull guy guaranteed spawning it right near the entrance but even though that's not the case here it's usually still possible to get it and get out.
+Speaking of fun, Lace also wielding a needle is a great fight, the first one so far I really enjoyed. She has so many moves but they're all fair and give windows to punish, though you've gotta be quick to not get parried. You can even dodge the counterattack part of the parry if you're quick enough. Her phase two AOE attack she telegraphs beforehand looks really cool and compensates by messing you up if it hits by giving you a free hit when she lands. If you take your time to learn the moveset and stay away from the edges of the platform (most of my deaths) you'll have a great time beating her in a reasonable number of attempts. Also should point out I love the ability to grab your cocoon from most boss rooms and just leave, skull guy guaranteed spawning it right near the entrance but even though that's not the case here it's usually still possible to get it and get out.
 
 I completely missed the forge lady for way too long despite her being just right of the bench, she seems cool and has a nice little relationship with her shovel buddy. Looking forward to unlocking the crafting kit and actually having something to use my overflowing crafting shards on, but I spent all my rosaries and there's so much to save up for...
 
@@ -106,17 +106,51 @@ I completely missed the forge lady for way too long despite her being just right
 
 ### Hints
 
+- Yes, there is a reason for all those thermals
+- The bottom right of the area is easy to miss, but you shouldn't
+
 ### Thoughts
 
-I actually thought this Hunter's March until I looked at the overall world map, guess there's still a whole area I haven't explored in the early game. I initially ran straight through the bottom of this area, then up to the top and what's presumably the final bench. Judging by the sheer number of hot air columns near the end I guess I was meant to go up and unlock the ability to fly up on those like Hornet does in the trailer, but I'll get back to that later. Speaking of the final bench, requiring (not cheap!) payment every time you want to access a bench is borderline sadistic. Not a fan of that at all, Pharloom capitalists.
+I actually thought this Hunter's March until I looked at the overall world map, guess there's still a whole area I haven't explored in the early game. I initially ran straight through the bottom of this area, then up to the top and what's presumably the final bench. Judging by the sheer number of thermals near the end I guess I was meant to go up and unlock the ability to fly up on those like Hornet does in the trailer, but I'll get back to that later. Speaking of the final bench, requiring (not cheap!) payment every time you want to access a bench is borderline sadistic. Not a fan of that at all, Pharloom capitalists.
 
-This is where the enemy complexity really starts ramping up, flying guys who slash all around instead of charging in a straight line, ants with ranged, dash and digging attacks and bigger ants with a subset of the last boss' moveset. But most fearsome of all are the little shadow dudes just hanging out under shrubbery trying to live their lives. The don't aggro you at all, just contact damage, but they make platforming annoying enough and provide easy enough silk refills that I've killed more than I'm comfortable with. How people treat these lil' guys is a far more accurate personality test than Myers-Briggs.
+The most fearsome of all enemies in this area are the little shadow dudes just hanging out under shrubbery trying to live their lives. The don't aggro you at all, just contact damage, but they make platforming annoying enough and provide easy enough silk refills that I've killed more than I'm comfortable with. How people treat these lil' guys is a far more accurate personality test than Myers-Briggs.
+
+The bottom right area had wayyy more to it than I expected, big fan of the balloon house lady and her general attitude to life. Also a fan of they way you actually have to 'farm' the spine cores needed to upgrade your cloak, a bit more interactive than the usual 'kill x of enemy n' mechanic. They could've made it a bit clearer; I only got two accidentally and for a while thought they just weren't dropping the spines ever time, but the dead body with spines in it near the end does a good job of forcing the reveal since you're likely to hit it fighting the surrounding enemies.
+
+The Fourth Chorus lives up to his impressive name, lots to keep track of but he never feels unfair. I really thought he wasn't going to require the ability to float at all, but the last phase makes great use of it for an insta-kill. I wonder if you can also beat him by just continuing to damage him normally? I'm mildly disappointed you can't parry the boulders back at him, but it's telegraphed by them being much larger than regular projectiles and you can still get in a bunch of free hits while he's making them rain if you're careful. Overall another fun boss, but definitely easier than Lace.
 
 ### Mysteries
 
+- Same metallic door as the starting area in the bottom right
+- Clear gap in bottom right of map
+
 ## Hunter's March
+
+### Hints
+
+- Don't let relief cloud your judgement
+
+### Thoughts
+
+Man it's a good thing they gate this behind a boss that's difficult without unlocking the dash, because this area is even harder. The enemy complexity really starts ramping up, adding ants with ranged, dash and digging attacks and bigger ants with a decent subset of Lace's moveset. And it's a challenge even getting to the enemies, with some sections that really test your ability to consistenly pogo in order to traverse them. Also some fun little traps, just for a cherry on top.
+
+Man, this area took me so long to get through. Probably 2 hours of attempts just to clear the "here's all the enemies for this zone" challenge room, then another half hour after that to get past the platforming section immediately following it. Unfortunately I'd seen the trap bench online before I ran into it game, so I missed out on throwing my Steam Deck through a window, but I hadn't seen the lever to disable the trap behind a hidden wall so I felt a little satsified at finding that on my own. Despite the difficulty though, I actually didn't hate it.
+
+The game really makes sure you've learned how to pogo by basically making you do it as a substitute for regular jumping, and really tests your knowledge of enemy attack patterns with the challenge room. Every time I died I felt like it was my fault for messing up, and since I got so much practice finding good routes/getting the pogo timing right the runback didnn't really bother me. I never hit the wall I do with some FromSoft bosses where I just need to put the game down and touch grass for a while; every time I failed I immediately ran right back in and felt like I could do it this time.
+
+Having said that I was so, so happy to finally see map lady and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. Time to explore and see what amazing secrets were hiding behind the early game version of the White Palace.
+
+### Mysteries
+
+- Mysterious ballet statue & someone's voice from above
 
 ## Pale Marsh
 
+### Hints
+
+### Impressions
+
 - Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest
   - So far sidequests either seem to give a meaningful reward of just require something you already have, which is nice
+
+### Mysteries
