@@ -138,11 +138,32 @@ Man, this area took me so long to get through. Probably 2 hours of attempts just
 
 The game really makes sure you've learned how to pogo by basically making you do it as a substitute for regular jumping, and really tests your knowledge of enemy attack patterns with the challenge room. Every time I died I felt like it was my fault for messing up, and since I got so much practice finding good routes/getting the pogo timing right the runback didnn't really bother me. I never hit the wall I do with some FromSoft bosses where I just need to put the game down and touch grass for a while; every time I failed I immediately ran right back in and felt like I could do it this time.
 
-Having said that I was so, so happy to finally see map lady and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. Time to explore and see what amazing secrets were hiding behind the early game version of the White Palace.
+Having said that I was so, so happy to finally see map lady and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. I was slightly less happy when after a few attempts at the Savage boi I got far enough into the fight to see how many adds he can summon at once. I'm not smart/good enough to track/dodge that many enemies at once, so I'll come back once I powered up a bit. Back to Pale Marsh, through the proper entrance this time.
 
 ### Mysteries
 
 - Mysterious ballet statue & someone's voice from above
+- A chapel at the bottom right
+  - How deal with infinite adds when brain small/hands slow?
+
+## Wyrmway
+
+### Hints
+
+- Wyrms make good silk batteries
+
+### Impressions
+
+The first time I made it here it basically served as a longish passageway to Bell Town from the other side, as well as a way into Shellwood. Nice example of multiple paths in Metroidvanias, this makes 3 ways to Bell Town/Pale Marsh from the start of the game so far. The Wyrms flying down from the ceilin are easy enough to dodge, though ambushes from their offspring can be challenging to manage in the confined tunnels. Mildly annoying that the runback is as long as it is when there's a one-way detour early on, but the area is easy enough that you're unlikely to die and need the runback more than once.
+
+### Mysteries
+
+- Most of it tbh, you definitely need the mantis claw equivalent to really explore here
+
+### Mysteries Uncovered
+
+- Bonegrave can be found by following the Wyrms
+  - has a nice (relatively) easy chapel which gives you your first crest
 
 ## Pale Marsh
 
@@ -150,8 +171,36 @@ Having said that I was so, so happy to finally see map lady and get an overview 
 
 ### Impressions
 
-- Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest
-  - So far sidequests either seem to give a meaningful reward of just require something you already have, which is nice
+First off, I actually got here the first time by finishing the flea troupe sidequest. Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest. The main entrance is also pretty cool, jumping between thermals for such a long time makes you feel like it's a big deal you're going this high, as does busting throught the ceiling at the end.
+
+The scissor guys are interesting for their ability to borrow up & down through platforms, as well as their ability to block pretty much any front-on attack. The centipede guys not so much, at least so far, I have no idea how to consistently land hits on them even if I'm perfectly capable of dodging all day.I like the little inn, and the menacing intro to Bellville made an impact. Seems like we'll be getting some main story progression before making it to themain objective for Act 1.
+
+### Mysteries
+
+## Shellwood
+
+### Hints
+
+- Nail beats thorns
+- Most people never look up; they miss out on a lot
+
+### Impressions
+
+Nice, relaxing area compared to the desolation of Pale Marsh before (?) it. Enemies here are fairly predictable other than the goddam harpoon guys who hunt the water striders (which is a cool way to show the world existing without you). Sister Splinter is another nice fight where there's a lot going on but it's still manageable, once you learn you can clear the thorns you're in business (positioning traps to deal with multiple adds also makes a big difference). And the reward for it is, finally, a mantis-claw replacement! Time to revisit pretty much everywhere I guess.
+
+The layout of this biome makes it incredibly easy to get lost, exacerbated by the fact I still haven't found map lady despite having half the flower cores and having beaten the boss. Will go revisit some old areas/maybe clear Pale Marsh before I come back and look for her. Might even find her in Pale Marsh and get the Shellwood map from here there, which is a nice QoL feature.
+
+### Mysteries
+
+- Heavy breathing/snoring near the top of the biome after beating Sister Splinter
+
+## Bell Town??
+
+### Hints
+
+- If you feel like there's no way up without wall-climbing, you're right
+
+### Impressions
 
 ### Mysteries
 
