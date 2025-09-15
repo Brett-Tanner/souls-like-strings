@@ -138,7 +138,7 @@ Man, this area took me so long to get through. Probably 2 hours of attempts just
 
 The game really makes sure you've learned how to pogo by basically making you do it as a substitute for regular jumping, and really tests your knowledge of enemy attack patterns with the challenge room. Every time I died I felt like it was my fault for messing up, and since I got so much practice finding good routes/getting the pogo timing right the runback didnn't really bother me. I never hit the wall I do with some FromSoft bosses where I just need to put the game down and touch grass for a while; every time I failed I immediately ran right back in and felt like I could do it this time.
 
-Having said that I was so, so happy to finally see map lady and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. I was slightly less happy when after a few attempts at the Savage boi I got far enough into the fight to see how many adds he can summon at once. I'm not smart/good enough to track/dodge that many enemies at once, so I'll come back once I powered up a bit. Back to Pale Marsh, through the proper entrance this time.
+Having said that I was so, so happy to finally see Shakra and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. I was slightly less happy when after a few attempts at the Savage boi I got far enough into the fight to see how many adds he can summon at once. I'm not smart/good enough to track/dodge that many enemies at once, so I'll come back once I powered up a bit. Back to Pale Marsh, through the proper entrance this time.
 
 ### Mysteries
 
@@ -165,18 +165,6 @@ The first time I made it here it basically served as a longish passageway to Bel
 - Bonegrave can be found by following the Wyrms
   - has a nice (relatively) easy chapel which gives you your first crest
 
-## Pale Marsh
-
-### Hints
-
-### Impressions
-
-First off, I actually got here the first time by finishing the flea troupe sidequest. Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest. The main entrance is also pretty cool, jumping between thermals for such a long time makes you feel like it's a big deal you're going this high, as does busting throught the ceiling at the end.
-
-The scissor guys are interesting for their ability to borrow up & down through platforms, as well as their ability to block pretty much any front-on attack. The centipede guys not so much, at least so far, I have no idea how to consistently land hits on them even if I'm perfectly capable of dodging all day.I like the little inn, and the menacing intro to Bellville made an impact. Seems like we'll be getting some main story progression before making it to themain objective for Act 1.
-
-### Mysteries
-
 ## Shellwood
 
 ### Hints
@@ -188,11 +176,38 @@ The scissor guys are interesting for their ability to borrow up & down through p
 
 Nice, relaxing area compared to the desolation of Pale Marsh before (?) it. Enemies here are fairly predictable other than the goddam harpoon guys who hunt the water striders (which is a cool way to show the world existing without you). Sister Splinter is another nice fight where there's a lot going on but it's still manageable, once you learn you can clear the thorns you're in business (positioning traps to deal with multiple adds also makes a big difference). And the reward for it is, finally, a mantis-claw replacement! Time to revisit pretty much everywhere I guess.
 
-The layout of this biome makes it incredibly easy to get lost, exacerbated by the fact I still haven't found map lady despite having half the flower cores and having beaten the boss. Will go revisit some old areas/maybe clear Pale Marsh before I come back and look for her. Might even find her in Pale Marsh and get the Shellwood map from here there, which is a nice QoL feature.
+The layout of this biome makes it incredibly easy to get lost, exacerbated by the fact I still haven't found Shakra despite having half the flower cores and having beaten the boss. Will go revisit some old areas/maybe clear Pale Marsh before I come back and look for her. Might even find her in Pale Marsh and get the Shellwood map from here there, which is a nice QoL feature.
 
 ### Mysteries
 
 - Heavy breathing/snoring near the top of the biome after beating Sister Splinter
+
+### Mysteries Uncovered
+
+- In the Wyrmway you can meet the blueblood researcher and get a tool to actually do something with those blooms
+  - You have to go to the bottom left and find his assistant first though
+- In the Marrow you can climb into that big hole in the middle, which holds the Tyrant Skull
+  - Pretty fun fight, there's also a loom of silk below that you can leave the fight and recharge on if you need
+  - I died way too many times for how simple he is, just so much damage
+- Where the Marrow joins the Deep Docks, there's an upper path you can now access from the bottom right bench of the Marrow
+  - It takes you to a Docks challenge room, and should give you your first complete mask upgrade with the reward shard
+  - The last wave being 4 of those guys who just charge in a straight line is a big 'fuck you' haha, they're so annoying
+- The bit just above where you enter Far Fields is accessible now
+  - ...
+
+## Pale Moore
+
+### Hints
+
+### Impressions
+
+First off, I actually got here the first time by finishing the flea troupe sidequest. Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest. The main entrance is also pretty cool, jumping between thermals for such a long time makes you feel like it's a big deal you're going this high, as does busting throught the ceiling at the end. In the end I put off properly exploring this till later and went back to the early game, ended up finding yet another way in through Shellwood/Bell Town.
+
+The scissor guys are interesting for their ability to burrow up & down through platforms, as well as their ability to block pretty much any front-on attack. The centipede guys not so much, at least so far, I have no idea how to consistently land hits on them even if I'm perfectly capable of dodging all day.I like the little inn, and the menacing intro to Bellville made an impact. Seems like we'll be getting some main story progression before making it to themain objective for Act 1.
+
+I explored a lot of this area without the map because I went in completely the opposite direction to Shakra, who was sitting on the floor about 2 screens right of the Far Fields entrance. The crow dudes are about as annoying as I've heard, they're so hard to hit for some reason so you end up just waiting for them to swoop so you can short-jump and pogo on them. Sometimes there are two and I have to fall back on ol' reliable of panick jumping/slashing. I like that the challenge room at the bottom of the bird village opens the path up as well as the usual rewards. It's also pretty funny that they dangle them in front of you on the way there and you can probably waste a lot of time getting them without beating the room, only to beat the room and see all the balloons appear which would've made them trivial to get.
+
+### Mysteries
 
 ## Bell Town??
 
