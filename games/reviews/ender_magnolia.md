@@ -2,7 +2,6 @@
 date: "2025-07-25T14:03:11+09:00"
 draft: false
 title: "Ender Magnolia: Bloom in the Mist"
-hero_path: "images/games/ender_magnolia.png"
 tags: [games, review]
 layout: _post.html
 ---

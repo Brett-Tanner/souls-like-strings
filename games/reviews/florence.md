@@ -2,7 +2,6 @@
 date: "2025-08-24T10:45:41+09:00"
 draft: false
 title: "Florence"
-hero_path: "images/games/florence.png"
 tags: [games, review]
 layout: _post.html
 ---

@@ -2,7 +2,6 @@
 date: "2025-08-02T12:23:41+09:00"
 draft: false
 title: "Wavetale"
-hero_path: "images/games/wavetale.png"
 tags: [games, review]
 layout: _post.html
 ---

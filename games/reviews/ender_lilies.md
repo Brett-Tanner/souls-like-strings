@@ -2,7 +2,6 @@
 date: "2025-06-28T11:10:59+09:00"
 draft: false
 title: "Ender Lilies: Quietus of the Knight"
-hero_path: "images/games/ender_lilies.png"
 tags: [games, review]
 layout: _post.html
 ---
