@@ -138,7 +138,7 @@ Man, this area took me so long to get through. Probably 2 hours of attempts just
 
 The game really makes sure you've learned how to pogo by basically making you do it as a substitute for regular jumping, and really tests your knowledge of enemy attack patterns with the challenge room. Every time I died I felt like it was my fault for messing up, and since I got so much practice finding good routes/getting the pogo timing right the runback didnn't really bother me. I never hit the wall I do with some FromSoft bosses where I just need to put the game down and touch grass for a while; every time I failed I immediately ran right back in and felt like I could do it this time.
 
-Having said that I was so, so happy to finally see Shakra and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. I was slightly less happy when after a few attempts at the Savage boi I got far enough into the fight to see how many adds he can summon at once. I'm not smart/good enough to track/dodge that many enemies at once, so I'll come back once I powered up a bit. Back to Pale Marsh, through the proper entrance this time.
+Having said that I was so, so happy to finally see Shakra and get an overview of the hell I just ran through, along with a shortcut back down to Deep Docks. I was slightly less happy when after a few attempts at the Savage boi I got far enough into the fight to see how many adds he can summon at once. I'm not smart/good enough to track/dodge that many enemies at once, so I'll come back once I powered up a bit. Back to Greymoor, through the proper entrance this time.
 
 ### Mysteries
 
@@ -154,7 +154,7 @@ Having said that I was so, so happy to finally see Shakra and get an overview of
 
 ### Impressions
 
-The first time I made it here it basically served as a longish passageway to Bell Town from the other side, as well as a way into Shellwood. Nice example of multiple paths in Metroidvanias, this makes 3 ways to Bell Town/Pale Marsh from the start of the game so far. The Wyrms flying down from the ceilin are easy enough to dodge, though ambushes from their offspring can be challenging to manage in the confined tunnels. Mildly annoying that the runback is as long as it is when there's a one-way detour early on, but the area is easy enough that you're unlikely to die and need the runback more than once.
+The first time I made it here it basically served as a longish passageway to Bellhart from the other side, as well as a way into Shellwood. Nice example of multiple paths in Metroidvanias, this makes 3 ways to Bellhart/Greymoor from the start of the game so far. The Wyrms flying down from the ceilin are easy enough to dodge, though ambushes from their offspring can be challenging to manage in the confined tunnels. Mildly annoying that the runback is as long as it is when there's a one-way detour early on, but the area is easy enough that you're unlikely to die and need the runback more than once.
 
 ### Mysteries
 
@@ -174,13 +174,16 @@ The first time I made it here it basically served as a longish passageway to Bel
 
 ### Impressions
 
-Nice, relaxing area compared to the desolation of Pale Marsh before (?) it. Enemies here are fairly predictable other than the goddam harpoon guys who hunt the water striders (which is a cool way to show the world existing without you). Sister Splinter is another nice fight where there's a lot going on but it's still manageable, once you learn you can clear the thorns you're in business (positioning traps to deal with multiple adds also makes a big difference). And the reward for it is, finally, a mantis-claw replacement! Time to revisit pretty much everywhere I guess.
+Nice, relaxing area compared to the desolation of Greymoor before (?) it. Enemies here are fairly predictable other than the goddam harpoon guys who hunt the water striders (which is a cool way to show the world existing without you). Sister Splinter is another nice fight where there's a lot going on but it's still manageable, once you learn you can clear the thorns you're in business (positioning traps to deal with multiple adds also makes a big difference). And the reward for it is, finally, a mantis-claw replacement! Time to revisit pretty much everywhere I guess.
 
-The layout of this biome makes it incredibly easy to get lost, exacerbated by the fact I still haven't found Shakra despite having half the flower cores and having beaten the boss. Will go revisit some old areas/maybe clear Pale Marsh before I come back and look for her. Might even find her in Pale Marsh and get the Shellwood map from here there, which is a nice QoL feature.
+The layout of this biome makes it incredibly easy to get lost, exacerbated by the fact I still haven't found Shakra despite having half the flower cores and having beaten the boss. Will go revisit some old areas/maybe clear Greymoor before I come back and look for her. Might even find her in Greymoor and get the Shellwood map from here there (yep), which is a nice QoL feature.
+
+The verticality is pretty cool, especially once you have a map, but needing to collect 6 plants feels like a few too many. I have 5 just from exploring, but I have a feeling number 6 is gonna require me going over the whole area with a fine-tooth comb. At least there are some quests giving you another reason to come back once you free Bellhart.
 
 ### Mysteries
 
 - Heavy breathing/snoring near the top of the biome after beating Sister Splinter
+- Whereeeeeeeee is the 6th plant
 
 ### Mysteries Uncovered
 
@@ -193,31 +196,55 @@ The layout of this biome makes it incredibly easy to get lost, exacerbated by th
   - It takes you to a Docks challenge room, and should give you your first complete mask upgrade with the reward shard
   - The last wave being 4 of those guys who just charge in a straight line is a big 'fuck you' haha, they're so annoying
 - The bit just above where you enter Far Fields is accessible now
-  - ...
+  - And leads to a fight against the brother of your first major roadblock, plus an annoying flying guy
 
-## Pale Moore
+## Greymoor
 
 ### Hints
 
+- Fleas are surprisingly strong
+- When fighting birds, patience is key
+
 ### Impressions
 
-First off, I actually got here the first time by finishing the flea troupe sidequest. Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest. The main entrance is also pretty cool, jumping between thermals for such a long time makes you feel like it's a big deal you're going this high, as does busting throught the ceiling at the end. In the end I put off properly exploring this till later and went back to the early game, ended up finding yet another way in through Shellwood/Bell Town.
+First off, I actually got here the first time by finishing the flea troupe sidequest. Love that you can get to what seems to be a midgame area early (and unlock a consumable) by completing a side quest (though it does mean missing out on the Moorwing fight). The main entrance is also pretty cool, jumping between thermals for such a long time makes you feel like it's a big deal you're going this high, as does busting through the ceiling at the end. In the end I put off properly exploring this till later and went back to the early game, ended up finding yet another way in through Shellwood/Bellhart.
 
-The scissor guys are interesting for their ability to burrow up & down through platforms, as well as their ability to block pretty much any front-on attack. The centipede guys not so much, at least so far, I have no idea how to consistently land hits on them even if I'm perfectly capable of dodging all day.I like the little inn, and the menacing intro to Bellville made an impact. Seems like we'll be getting some main story progression before making it to themain objective for Act 1.
+The scissor guys are interesting for their ability to burrow up & down through platforms, as well as their ability to block pretty much any front-on attack. The centipede guys not so much, at least so far, I have no idea how to consistently land hits on them even if I'm perfectly capable of dodging all day.I like the little inn, and the menacing intro to Bellhart made an impact. Seems like we'll be getting some main story progression before making it to the main objective for Act 1.
 
-I explored a lot of this area without the map because I went in completely the opposite direction to Shakra, who was sitting on the floor about 2 screens right of the Far Fields entrance. The crow dudes are about as annoying as I've heard, they're so hard to hit for some reason so you end up just waiting for them to swoop so you can short-jump and pogo on them. Sometimes there are two and I have to fall back on ol' reliable of panick jumping/slashing. I like that the challenge room at the bottom of the bird village opens the path up as well as the usual rewards. It's also pretty funny that they dangle them in front of you on the way there and you can probably waste a lot of time getting them without beating the room, only to beat the room and see all the balloons appear which would've made them trivial to get.
+I explored a lot of this area without the map because I went in completely the opposite direction to Shakra, who was sitting on the floor about 2 screens right of the Far Fields entrance. The crow dudes are about as annoying as I've heard, they're so hard to hit for some reason so you end up just waiting for them to swoop so you can short-jump and pogo on them. Sometimes there are two and I have to fall back on ol' reliable of panic jumping/slashing. I like that the challenge room at the bottom of the bird village opens the path up as well as the usual rewards. It's also pretty funny that they dangle them in front of you on the way there and you can probably waste a lot of time getting them without beating the room, only to beat the room and see all the balloons appear which would've made them trivial to get.
 
 ### Mysteries
 
-## Bell Town??
+- There's one more level to the right hand tower, I can't get enough airtime to hit the cog enough times
+- Two tablets explaining the silk production expectations, one high with numbers and one low with like a religious chant
+- The area right at the top of the right tower seems unreachable for now, can't get enough hangtime to hit the cog enough times
+  - Tried pogoing on the spikes
+  - Holding A won't work since you drop when you slash
+  - Maybe the thread storm?
+  - Or I might unlock something later
+
+## Bellhart
 
 ### Hints
 
 - If you feel like there's no way up without wall-climbing, you're right
+- Hit every wall, especially near where you meet a friend
 
 ### Impressions
 
-### Mysteries
+I entered through the Shellwood entrance (at the top right), which I think is probably the only entrance. Absolutely love that you can shortcut back to the bench you probably started from, very curious to know if you can hack through those vines from the other side if you know where they are. Don't think there were any obvious tells. The enemies here aren't particularly challenging but they are entertaining, you can parry the little bell dudes that dive at you and bounce on the big ones.
+
+There is one rather challenging enemy though, Widow is another excellent boss who keeps you on your toes the whole time without being unfair. Lots of classic 2D metroidvania moves clearly telegraphed beforehand; if you take a hit means you messed up rather than being bad luck. Not that it's easy to avoid messing up, there's a lot happening all over the screen at times and she's slippery enough to tempt you into slashing at air in frustration when you should be dodging. I have a feeling you can deflect some of the bells she flings at you, though I didn't end up trying it too much since it was very possible to beat her without it.
+
+Having an actual platforming section in the dream realm made it a bit more interactive than the usual 'jump up' situation, and the Needolin seems like it's going to let me explore a whole range of new places. I've also heard you can use it on more than you'd expect, similar to the dream nail, so looking forward to that. Freeing the town is also a satisfying reward, as it finally gives you somewhere to decipher/sell the artifacts you've been collecting (revealing some interesting lore in the process) and a place to upgrade your nail. Also the shopkeeper means you only need to lose 20/120 beads, rather than the 20/80 you've been losing up until now.
+
+Discovering the shortcut down from the fast-travel station was delightful, especially since it took me right to the newly decorated prison area I spent so much time running back to the skull ant from. I wonder if that's triggered by beating Widow, finding the shortcut or something else? If it's finding the shortcut that's pretty cool. Still wonder if I'll ever see the guy I could've freed there by just hitting the cage below him again.
+
+### Mysteries Revealed
+
+- The empty room in the Marrow I was **sure** had to connect to somewhere above
+- The light stealer's bench now having new decorations and a new inhabitant
+- The Needolin giving you access to all the dreamer-looking doors, which coupled with the Marrow shortcut means time to backtrack
 
 ## Summary
 
