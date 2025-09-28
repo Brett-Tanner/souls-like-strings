@@ -246,6 +246,36 @@ Discovering the shortcut down from the fast-travel station was delightful, espec
 - The light stealer's bench now having new decorations and a new inhabitant
 - The Needolin giving you access to all the dreamer-looking doors, which coupled with the Marrow shortcut means time to backtrack
 
+## Weavenest Alta
+
+### Hints
+
+- Old structures have a lot of collapsed walls
+
+### Impressions
+
+Seems like there might be a few of these zones, and I'm looking forward to finding them. Kinda like stumbling on precursor technology, the Weavers seem like a much more advanced society than the current one (at least by the standard of stuff I've seen in Act 1, which is outside the Citadel). I got a mask shard, a lore thingy to trade with my new friend in Bellhart, half a spindle and the ability to evolve my base crest (maybe more in the future?). Also some interesting lore about what the heck Hornet is.
+
+Fighting double Moss Mother was foreshadowed by the Hunter's Journal, and really requires you to track a bunch of stuff/react quickly. Killing the second after you drop the first feels like a relaxing stroll in the park after the frantic first (middle?) phase, and taking down two of the first boss you fought at once is a nice reminder of your progression. Overall not that much to do here, but still an interesting diversion from the 'main' biomes which reveals a little more of the main story.
+
+### Mysteries
+
+- I'm pretty sure there's something above the left-hand path, right when the Weavenest tunnel ends and Greenpath biome begins
+
+## Sinner's Road
+
+### Hints
+
+- The first bench is similar to Hunter's March
+
+### Impressions
+
+The stuck bench is absolutely brutal, it's not even that far in and you have to both find a hidden path and do the hardest platforming section so far to unlock it.
+
+### Mysteries
+
+- Boiler door with a light shining out across a maggot lake after you try to get to the first bench
+
 ## Summary
 
 ### Highlights
