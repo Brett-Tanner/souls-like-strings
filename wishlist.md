@@ -24,7 +24,7 @@ These all ship from America, the shipping doesn't increase when you buy more so 
 
 ### Hollow Knight
 
-- [Long sleeve](https://www.fangamer.jp/collections/hollow-knight/products/hollow-knight-kindred-souls-long-sleeve-shirt)
+- ~~[Long sleeve](https://www.fangamer.jp/collections/hollow-knight/products/hollow-knight-kindred-souls-long-sleeve-shirt)~~
 - [Knight in the garden](https://www.fangamer.jp/collections/hollow-knight/products/wandering-knight-shirt)
 - [Hornet in the garden](https://www.fangamer.jp/collections/hollow-knight/products/nimble-hornet-shirt)
 - [Book](https://www.fangamer.com/collections/hollow-knight/products/hollow-knight-wanderers-journal-book): Ships from America though

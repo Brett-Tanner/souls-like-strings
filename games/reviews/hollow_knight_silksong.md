@@ -215,6 +215,7 @@ I explored a lot of this area without the map because I went in completely the o
 
 ### Mysteries
 
+- 'Bring me something truly nasty' - is probably the worms you get infected with in Bilewater
 - There's one more level to the right hand tower, I can't get enough airtime to hit the cog enough times
 - Two tablets explaining the silk production expectations, one high with numbers and one low with like a religious chant
 - The area right at the top of the right tower seems unreachable for now, can't get enough hangtime to hit the cog enough times
@@ -267,14 +268,49 @@ Fighting double Moss Mother was foreshadowed by the Hunter's Journal, and really
 ### Hints
 
 - The first bench is similar to Hunter's March
+- Up is the key
 
 ### Impressions
 
-The stuck bench is absolutely brutal, it's not even that far in and you have to both find a hidden path and do the hardest platforming section so far to unlock it.
+The stuck bench is absolutely brutal, it's not even that far in and you have to both find a hidden path and do the hardest platforming section so far to unlock it. The dog-snake enemies are also a giant pain in the ass, I found it really hard to tell when they were jumping and pogoing on them can be difficult at times due to small tunnels/swinging spikes overhead. I think the infection you get from landing in the water is pretty cool, slowly sucking away your silk + consuming a healing charge just to get rid of it makes it punishing to fall into even if it doesn't kill/damage you.
 
 ### Mysteries
 
 - Boiler door with a light shining out across a maggot lake after you try to get to the first bench
+  - And a long tube going up to it
+- What will my new servant make for me when I come back?
+- Remember to come back and head left at the top of the first part to find out what's in that chest
+  - I'm not doing it now because 90% chance it's just shards. Chests could definitely be more rewarding in Silksong.
+
+## Biilgewater
+
+### Hints
+
+### Impressions
+
+I knew you ended up without your gear at some point, I didn't realise until after I'd been caught that it might be from some random bug with a metal thing they use to try and bonk you in Bilewater. The timing was a pity though; I felt like I was finally getting close to being able to whack the mossy guy who kept harrassing me with poison darts.
+
+### Mysteries
+
+## Prison Break
+
+### Hints
+
+- Sometimes violence isn't the answer
+  - At least not violence from you
+
+### Impressions
+
+The setup is really cool, as is leaving you basically powerless after you spent so long building yourself up. Fighting is incredibly tedious, so you're incentivised to just run/sneak past as much as possible like you might in a real prison escape. I also like how they make cold something you actually need to worry about since they took your clothes, and it's not that long until you get a very cathartic moment of taking your stuff back like a badass and beating the shit out of your jailers.
+
+### Mysteries
+
+- Need the apostate key
+- There's an empty cell under the first bench you can access, suspiciously empty
+
+## Deep Docks Deux
+
+Shakra wasn't kidding when she said there was more to this area when you might expect, I found a whole extra area behind the locked door and still can't open the boiler-looking one (though I know it has a tram of some kind behind it now). New enemies as well; a big, dumb, persistent one and a flying armored bug with miniature nuclear grenades (which you can parry but don't damage him, and will damage you if you're too close when they hit him).
 
 ## Summary
 
