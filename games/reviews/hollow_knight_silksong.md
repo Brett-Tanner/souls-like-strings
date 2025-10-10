@@ -282,7 +282,7 @@ The stuck bench is absolutely brutal, it's not even that far in and you have to 
 - Remember to come back and head left at the top of the first part to find out what's in that chest
   - I'm not doing it now because 90% chance it's just shards. Chests could definitely be more rewarding in Silksong.
 
-## Biilgewater
+## Bilgewater
 
 ### Hints
 
@@ -311,6 +311,32 @@ The setup is really cool, as is leaving you basically powerless after you spent 
 ## Deep Docks Deux
 
 Shakra wasn't kidding when she said there was more to this area when you might expect, I found a whole extra area behind the locked door and still can't open the boiler-looking one (though I know it has a tram of some kind behind it now). New enemies as well; a big, dumb, persistent one and a flying armored bug with miniature nuclear grenades (which you can parry but don't damage him, and will damage you if you're too close when they hit him).
+
+## The Blasted Steps
+
+### Hints
+
+- There are a few alternate paths & secrets that look like death drops
+
+### Impressions
+
+### Mysteries
+
+- Where the heck did the other drill insect go?? Was not expecting it to just peace out after I killed its mate, especially after the Hunter's Journal entry
+
+## The Mist && The Exhaust Organ
+
+### Hints
+
+- Your first instinct about how to navigate is mostly right, but a needs a little more... jazz
+
+### Impressions
+
+The Phantom was another excellent boss fight; his first stage some stylistic similarities to the Lace fight in the sense he parries and some of the move are similar, but the way he throws his pin then dashes to it pretty much completely changes the rhythm of the fight. His second phase dives are similar mechanically to Lace's telegraphed blitzes but look cool nonetheless, and his berserk chain of them definitely caught me off guard. I enjoy how he occasionally disappears/teleports into the dust all those consecutive slams raised in the third phase, makes him a bit harder to predict. And the reward is so good, now instead of just attacking to cancel out an enemy attack I can actually parry it! Will this be the thing that finally makes me use silk for something other than healing?
+
+### Mysteries
+
+- After beating the boss, the path leading to the Choral Chambers has a vertical shaft with _seemingly_ nothing at the top
 
 ## Summary
 
