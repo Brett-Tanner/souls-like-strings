@@ -1,6 +1,5 @@
 ---
 date: "2025-07-06T23:33:18+09:00"
-draft: false
 title: "Cobalt Core"
 tags: [games, review]
 layout: _post.html

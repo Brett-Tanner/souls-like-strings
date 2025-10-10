@@ -1,6 +1,5 @@
 ---
 date: "2025-08-15T18:43:11+09:00"
-draft: false
 title: "Todos"
 tags: [dev]
 layout: _post.html
@@ -9,7 +8,6 @@ layout: _post.html
 ## This Blog
 
 - legacy 'something' series about vault stuff
-
   - optimising list endpoint
   - class component refactors
   - store types?

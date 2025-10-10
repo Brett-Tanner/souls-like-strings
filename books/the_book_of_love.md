@@ -1,6 +1,5 @@
 ---
 date: "2025-08-26T17:29:02+09:00"
-draft: false
 title: "The Book of Love"
 tags: [books, fiction, review]
 layout: _post.html

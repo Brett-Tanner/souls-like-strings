@@ -1,6 +1,5 @@
 ---
 date: "2025-08-30T09:43:11+09:00"
-draft: false
 title: "Exfiltrating Data from Fly.io Postgres"
 tags: [dev, projects, spending_tracker]
 layout: _post.html

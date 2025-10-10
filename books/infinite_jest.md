@@ -1,6 +1,5 @@
 ---
 date: "2025-07-20T18:29:02+09:00"
-draft: false
 title: "Infinite Jest"
 tags: [books, fiction, review]
 layout: _post.html

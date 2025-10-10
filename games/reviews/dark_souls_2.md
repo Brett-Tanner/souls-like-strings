@@ -1,6 +1,5 @@
 ---
 date: "2025-09-04T19:45:41+09:00"
-draft: false
 title: "Dark Souls 2"
 tags: [games, review]
 layout: _post.html

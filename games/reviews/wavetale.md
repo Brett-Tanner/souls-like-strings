@@ -1,6 +1,5 @@
 ---
 date: "2025-08-02T12:23:41+09:00"
-draft: false
 title: "Wavetale"
 tags: [games, review]
 layout: _post.html

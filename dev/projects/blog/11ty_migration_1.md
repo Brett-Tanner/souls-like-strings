@@ -1,6 +1,5 @@
 ---
 date: "2025-08-16T18:43:11+09:00"
-draft: false
 title: "11ty Migration: Feature Parity"
 tags: [dev, projects, blog]
 layout: _post.html

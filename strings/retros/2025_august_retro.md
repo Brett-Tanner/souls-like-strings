@@ -1,6 +1,5 @@
 ---
 date: "2025-09-01T10:00:29+09:00"
-draft: false
 title: "2025 August Retro"
 tags: [strings, retro]
 layout: _post.html

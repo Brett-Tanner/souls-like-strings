@@ -1,6 +1,5 @@
 ---
 date: "2025-09-25"
-draft: false
 title: "The Founders Trilogy"
 tags: [books, fiction, review]
 layout: _post.html

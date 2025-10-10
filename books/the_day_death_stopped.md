@@ -1,6 +1,5 @@
 ---
 date: "2025-08-31T14:04:02+09:00"
-draft: false
 title: "The Day Death Stopped"
 tags: [books, fiction, review]
 layout: _post.html

@@ -1,6 +1,5 @@
 ---
 date: "2025-06-28T11:10:59+09:00"
-draft: false
 title: "Ender Lilies: Quietus of the Knight"
 tags: [games, review]
 layout: _post.html

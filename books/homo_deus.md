@@ -1,6 +1,5 @@
 ---
 date: "2025-09-20"
-draft: false
 title: "Homo Deus"
 tags: [books, non-fiction, review]
 layout: _post.html

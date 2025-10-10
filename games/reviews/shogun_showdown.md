@@ -1,6 +1,5 @@
 ---
 date: "2025-09-17T18:57:41+09:00"
-draft: false
 title: "Shogun Showdown"
 tags: [games, review]
 layout: _post.html

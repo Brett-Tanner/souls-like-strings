@@ -1,6 +1,5 @@
 ---
 date: "2025-08-24T10:45:41+09:00"
-draft: false
 title: "Florence"
 tags: [games, review]
 layout: _post.html

@@ -1,6 +1,5 @@
 ---
 date: "2025-06-18T20:48:36+09:00"
-draft: false
 title: "Tainted Grail: Conquest"
 tags: [games, review]
 layout: _post.html

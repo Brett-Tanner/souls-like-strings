@@ -1,6 +1,5 @@
 ---
 date: "2025-09-04T19:45:41+09:00"
-draft: false
 title: "Silksong Journal"
 tags: [games, review]
 layout: _post.html

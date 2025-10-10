@@ -1,6 +1,5 @@
 ---
 date: "2025-05-30T18:29:02+09:00"
-draft: false
 title: "Ironeye Tips"
 tags: [games, tips]
 layout: _post.html

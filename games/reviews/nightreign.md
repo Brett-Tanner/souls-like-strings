@@ -1,6 +1,5 @@
 ---
 date: "2025-05-30T18:29:02+09:00"
-draft: true
 title: "Nightreign"
 tags: [games, review]
 layout: _post.html
