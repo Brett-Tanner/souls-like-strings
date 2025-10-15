@@ -1,5 +1,5 @@
 ---
-date: "2025-09-04T19:45:41+09:00"
+date: "2025-09-04"
 title: "Silksong Journal"
 tags: [games, review]
 layout: _post.html
@@ -337,9 +337,14 @@ The Phantom was another excellent boss fight; his first stage some stylistic sim
 
 - After beating the boss, the path leading to the Choral Chambers has a vertical shaft with _seemingly_ nothing at the top
 
-## Summary
+## Choral Chambers
 
-### Highlights
+### Hints
 
-- The first Lace fight is a spectacular first 'real' boss fight
-- Clearing Hunter's March is brutal, but so, so satisfying and forces you to actually learn how to play
+- This will jump you to Act 2 if you leave the initial bench area you end up in
+
+### Impressions
+
+After creating my own little settlement at the end of my initial exploration, I decided it was time to head back and see what reaching Act 2 had unlocked in previous areas. I got my very own bellhome in Bellhome, and spent ~3 hours straight dying to Savage Beastlfly v2 before finally getting him. Words cannot describe my despondency when he not only had a 3rd phase, but summoned 2 adds to start it when I'd already been struggling heavily with one.
+
+### Mysteries
