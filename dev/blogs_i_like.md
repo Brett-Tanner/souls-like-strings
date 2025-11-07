@@ -39,6 +39,16 @@ If you also feel like there are too many frameworks/abstractions over what's a p
 
 They have a range of talented writers who do a great job breaking down the many, many features of CSS with examples. Also Chris Coyier's new home after selling CSS Tricks, so if you also learnt everything you know about grid and flexbox from him you'll feel right at home. They also sell courses but in my experience they're not pushy about it in the blog, just high quality articles on stuff you should be aware of as a frontend dev.
 
+## [Weird Wide Web Hole](https://buttondown.com/weirdwidewebhole)
+
+### Topics
+
+- Internet esoterica
+
+### Why?
+
+Every week they find 4 interesting, usually weird things on the internet and share them with you, plus some poetry. It's very rare that they share anything I'm not at least a little interested by, and many of the things they share are indeed very weird.
+
 ## Design Inspiration
 
 ### [Henry from Online](https://henry.codes/)
