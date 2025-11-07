@@ -1,5 +1,5 @@
 ---
-date: "2025-10-01"
+date: "2025-11-01"
 title: "2025 October Retro"
 tags: [strings, retro]
 layout: _post.html
