@@ -1,5 +1,5 @@
 ---
-date: "2025-11-31"
+date: "2025-11-14"
 title: "Oscuro: Blossom's Glow"
 tags: [games, review]
 layout: _post.html
