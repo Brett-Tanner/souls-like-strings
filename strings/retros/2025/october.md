@@ -15,7 +15,7 @@ layout: _post.html
 
 ### Games
 
-Mostly more [Silksong](/games/reviews/hollow_knight_silksong.md) & [Hades 2](/games/reviews/hades_2.md); man those are long games. In Hades I finally finished off Typhon, then beat him twice more, while beating Chronos is a given unless I crank the fear way past 10. Two more Typhon kills and I'll have the ingredients for what I assume are the incantations which start the leadup to rolling credits, but I'm waiting for the first post-launch update since it apparently adds new content to the (apparently unsatisfying) ending.
+Mostly more [Silksong](/games/reviews/2025/silksong.md) & [Hades 2](/games/reviews/2025/hades_2.md); man those are long games. In Hades I finally finished off Typhon, then beat him twice more, while beating Chronos is a given unless I crank the fear way past 10. Two more Typhon kills and I'll have the ingredients for what I assume are the incantations which start the leadup to rolling credits, but I'm waiting for the first post-launch update since it apparently adds new content to the (apparently unsatisfying) ending.
 
 I'm ~60 hours into Silksong and still have plenty left in Act 2; could probably finish it pretty quickly if I just focused on getting the last song but I'd rather take my time and enjoy a generationally great game. Hopefully Team Cherry works on something else rather than just riding off into the sunset with their millions.
 

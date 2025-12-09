@@ -14,7 +14,7 @@ layout: _post.html
 
 ### Games
 
-[Silksong](/games/reviews/silksong.md) continues to be incredible; now 70 hours in, not even done with Act 2 and still absolutely loving it. I even enjoyed the famously rough Bilewater boss & its accompanying runback (plus pre-boss gauntlet!). Every moment with Silksong feels special, and I'm going to take my time finishing it because once it's gone all that's left is a replay of the original.
+[Silksong](/games/reviews/2025/silksong.md) continues to be incredible; now 70 hours in, not even done with Act 2 and still absolutely loving it. I even enjoyed the famously rough Bilewater boss & its accompanying runback (plus pre-boss gauntlet!). Every moment with Silksong feels special, and I'm going to take my time finishing it because once it's gone all that's left is a replay of the original.
 
 In service of taking my time, I spent around 60 hours of it becoming [Like a Dragon](/games/reviews/like_a_dragon.md). I definitely understand why people enjoy the Yakuza series now, such a unique combination of wacky antics, solid JRPG combat and melodramatic but occasionally moving story. Ichiban truly is the ichiban protagonist as well, never stops making me laugh with his solutions/reactions to the situations he finds himself in. I ended up picking up the prologue to the original series, Yakuza 0, since it was about to be delisted in favour of a new 'improved' and more expensive Director's Cut. Probably won't play it for a while though so I don't get burnt out on that particular style of game.
 
