@@ -14,7 +14,7 @@ layout: _post.html
 
 ### Games
 
-Well I was right about [Silksong](/games/reviews/hollow_knight_silksong.md) being the main focus in [last month's retro](/strings/retros/2025_august_retro.md); didn't anticipate Hades 2 though. Absolutely crazy those two came out in the same month; both live up to their hype which is incredible given Silksong's 7 year development time and all the memes. Hades was a safer bet since it somehow spent its whole early access at Overwhelmingly Positive, but even given that it's an amazing example of how to make a 'more, but better' sequel. Really hope Slay the Spire completes my indie trinity by doing something similar when it hits EA next March.
+Well I was right about [Silksong](/games/reviews/2025/hollow_knight_silksong.md) being the main focus in [last month's retro](/strings/retros/2025_august_retro.md); didn't anticipate Hades 2 though. Absolutely crazy those two came out in the same month; both live up to their hype which is incredible given Silksong's 7 year development time and all the memes. Hades was a safer bet since it somehow spent its whole early access at Overwhelmingly Positive, but even given that it's an amazing example of how to make a 'more, but better' sequel. Really hope Slay the Spire completes my indie trinity by doing something similar when it hits EA next March.
 
 I also had some budget left to grab a pair of indie Inside-likes in the Autumn sale (White Shadows & Shady Part of Me) as well as a potential fiance game (Haven). This locks in my available games for my anniversary week off in the middle of October, but given Hades 2 is a rogue-like and I still have DS3 plus ~ 5 backlog games on my Steam Deck I think I'll be fine.
 

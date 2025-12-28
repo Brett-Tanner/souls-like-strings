@@ -17,4 +17,4 @@ Though the story's refusal to let any expectation go unsubverted can lead to pre
 
 Despite the contrarian take on the genre the battles are still climactic, the emotional beats mostly hit and the ending suits the overall vibe well. The Bright Sword probably won't win a Pulitzer, but if you like fantasy it's a comfy read with enough differentiating it to stay interesting.
 
-<small>Funnily enough I played [Tainted Grail Conquest](/games/reviews/tainted_grail_conquest) recently, which has the same overarching premise.</small>
+<small>Funnily enough I played [Tainted Grail Conquest](/games/reviews/2025/tainted_grail_conquest) recently, which has the same overarching premise.</small>

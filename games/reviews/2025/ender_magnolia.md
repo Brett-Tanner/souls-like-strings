@@ -20,7 +20,7 @@ layout: _post.html
 
 ## Impressions
 
-A fantastic sequel which takes the medieval fantasy foundation of the original and brings it into the steampunk-ish future. The basic gameplay and premise are the same, so if you liked Ender Lilies (and you should) you'll like this. Rather than rehashing all the the things which made me love Ender Lilies from my [original review](/games/reviews/ender_lilies.md), I'll say they all still apply here and just list the QoL improvements introduced with Magnolia.
+A fantastic sequel which takes the medieval fantasy foundation of the original and brings it into the steampunk-ish future. The basic gameplay and premise are the same, so if you liked Ender Lilies (and you should) you'll like this. Rather than rehashing all the the things which made me love Ender Lilies from my [original review](/games/reviews/2025/ender_lilies.md), I'll say they all still apply here and just list the QoL improvements introduced with Magnolia.
 
 - No contact damage!!! It only kinda annoyed me in the original, but I can't imagine going back to having it now
 - The map now includes the internal layout of rooms, like platforms and ledges, making it much easier to orient yourself within a room

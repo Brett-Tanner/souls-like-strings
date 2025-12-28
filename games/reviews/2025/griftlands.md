@@ -20,7 +20,7 @@ layout: _post.html
 
 ## Impressions
 
-I got this for negative money in a bundle with [Shogun Showdown](/games/reviews/shogun_showdown.md) so I wasn't that invested in it, but there are some cool ideas here. Having separate decks/health for negotiating or fighting is an interesting idea, as is having wins in one recover part of your health for the other.
+I got this for negative money in a bundle with [Shogun Showdown](/games/reviews/2025/shogun_showdown.md) so I wasn't that invested in it, but there are some cool ideas here. Having separate decks/health for negotiating or fighting is an interesting idea, as is having wins in one recover part of your health for the other.
 
 I also liked cards levelling up as you use them, though not sure I like that it incentivices you to draw fights out so you can get the most XP for your cards. When they level up you get two options from a pool of choices, and some of them are actually quite interesting. I particularly liked the options which gave your basic attacks/defends a 300% damage boost in exchange for permanently removing them from your deck when used; an interesting take on deck thinning.
 
