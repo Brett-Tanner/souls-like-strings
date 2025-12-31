@@ -13,4 +13,4 @@ The 2.5th chapter of Thara Celehar's suffering starts off on a worryingly positi
 
 Also, photography is apparently inherently pornographic in this world, since no-one seems to have realised you can take pictures of anything other than naked humans. The industry is exactly as exploitative and messed up as you'd expect for the fairly dark world of this series, but leads to some fun interactions between Celehar and his crush.
 
-Overall a solid entry to the series, but didn't quite measure up to [The Witness for the Dead](/books/chronicles_of_osreth/the_witness_for_the_dead.md) or do anything to stop me missing [The Goblin Emperor](/books/chronicles_of_osreth/the_goblin_emperor.md). Let's see how Katherine wraps the series up in the final book.
+Overall a solid entry to the series, but didn't quite measure up to [The Witness for the Dead](/books/2025/chronicles_of_osreth/the_witness_for_the_dead.md or do anything to stop me missing [The Goblin Emperor](/books/2025/chronicles_of_osreth/the_goblin_emperor.md. Let's see how Katherine wraps the series up in the final book.

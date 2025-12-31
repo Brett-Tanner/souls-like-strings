@@ -9,7 +9,7 @@ layout: _post.html
 
 > My YA novel moratorium lasted all of two weeks
 
-In my defense, I'd just finished [Homo Deus](/books/homo_deus.md) and wanted something light after the inevitable depression brought on by thinking about the future. I really liked the main hook of the magic system; being able to just argue reality into giving up and letting you do what you want is cool. The protagonist's ability to then argue with the things arguing with reality, and exploit their single-mindedness to convince them to do things they weren't designed for, lead to some highlight moments which gave me high hopes for the series. Unfortunately after 2 books and a few chapters of the 3rd, those hopes were dashed.
+In my defense, I'd just finished [Homo Deus](/books/2025/homo_deus.md and wanted something light after the inevitable depression brought on by thinking about the future. I really liked the main hook of the magic system; being able to just argue reality into giving up and letting you do what you want is cool. The protagonist's ability to then argue with the things arguing with reality, and exploit their single-mindedness to convince them to do things they weren't designed for, lead to some highlight moments which gave me high hopes for the series. Unfortunately after 2 books and a few chapters of the 3rd, those hopes were dashed.
 
 I quite enjoyed the first book; it was a somewhat grounded story about people trying to make a positive difference in a messed up world and had a manageable scale. There was a somewhat reasonable progression in what everyone could do, mysteries to uncover and compelling characters to learn about. If the series ended there I would've definitely been a fan.
 

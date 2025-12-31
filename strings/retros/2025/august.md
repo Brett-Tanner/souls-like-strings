@@ -31,7 +31,7 @@ Next month is going to be the Silksong show once it comes out, along with some P
 
 ### Books
 
-Read some middling YA fare in [The Bright Sword](/books/the_bright_sword.md), [The Book of Love](/books/the_book_of_love.md) and [The Day Death Stopped](/books/the_day_death_stopped.md). Coming off Infinite Jest I'm maybe being a bit harsh on a genre I've typically enjoyed, but the writing feels absolutely juvenile by comparison. Maybe I'm finally aging out of YA at 30 haha. Maybe I'll prompt my automated book recommendation alogrithm (fiance looking at titles/covers) to pick something more mature looking when I finish the angsty witch one.
+Read some middling YA fare in [The Bright Sword](/books/2025/the_bright_sword.md, [The Book of Love](/books/2025/the_book_of_love.md and [The Day Death Stopped](/books/2025/the_day_death_stopped.md. Coming off Infinite Jest I'm maybe being a bit harsh on a genre I've typically enjoyed, but the writing feels absolutely juvenile by comparison. Maybe I'm finally aging out of YA at 30 haha. Maybe I'll prompt my automated book recommendation alogrithm (fiance looking at titles/covers) to pick something more mature looking when I finish the angsty witch one.
 
 ### General Life Stuff
 
@@ -68,4 +68,4 @@ Both my manager and skip-level say they're putting my name forward for promotion
 - Focus on shorter, more frequent rides this month, with the aim of going for a ride every day
 - Don't burn out on this blog by forcing myself to write a bunch
   - not everything which falls into a category needs a post or at least not a huge one
-  - for example I'm reading ['The Day Death Stopped'](/books/the_day_death_stopped) right now and basically think it's just generic, fine YA stuff, so I might just write that
+  - for example I'm reading ['The Day Death Stopped'](/books/2025/the_day_death_stopped right now and basically think it's just generic, fine YA stuff, so I might just write that
