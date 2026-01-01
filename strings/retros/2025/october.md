@@ -29,9 +29,9 @@ Looking forward to picking up Dispatch in December once all its episodes come ou
 
 ### Books
 
-- [Atonement](/books/2025/atonement.md: The dangers of an overactive imagination/sheltered upbringing
-- [Becoming Superman](/books/2025/becoming_superman.md: Absolutely brutal read, especially at the start. Not what I expected.
-- [The Night the Lights Went Out: A Memoir of Life After Brain Damage](/books/2025/the_night_the_lights_went_out.md: Nice & cozy after Becoming Superman. Not what I expected in the other direction.
+- [Atonement](/books/2025/atonement.md): The dangers of an overactive imagination/sheltered upbringing
+- [Becoming Superman](/books/2025/becoming_superman.md): Absolutely brutal read, especially at the start. Not what I expected.
+- [The Night the Lights Went Out: A Memoir of Life After Brain Damage](/books/2025/the_night_the_lights_went_out.md): Nice & cozy after Becoming Superman. Not what I expected in the other direction.
 
 ### Life
 

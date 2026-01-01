@@ -22,13 +22,13 @@ I also played [1000xResist](/games/reviews/2025/1000xresist.md), a great example
 
 ### Books
 
-This was mostly Chronicles of Osreth month, starting at the midpoint with [Witness for the Dead](/books/2025/chronicles_of_osreth/the_witness_for_the_dead.md then jumping back to the excellent starting point in [Goblin Emperor](/books/2025/chronicles_of_osreth/the_goblin_emperor.md. Now I'm partway through [The Grief of Stones](/books/2025/chronicles_of_osreth/the_grief_of_stones.md and still enjoying Celehar's somewhat peculiar approach to life.
+This was mostly Chronicles of Osreth month, starting at the midpoint with [Witness for the Dead](/books/2025/chronicles_of_osreth/the_witness_for_the_dead.md) then jumping back to the excellent starting point in [Goblin Emperor](/books/2025/chronicles_of_osreth/the_goblin_emperor.md). Now I'm partway through [The Grief of Stones](/books/2025/chronicles_of_osreth/the_grief_of_stones.md) and still enjoying Celehar's somewhat peculiar approach to life.
 
-I also took a brief trip to space for a sci-fi whodunnit in [The Deep Sky](/books/2025/the_deep_sky.md, where the mystery of an explosion on a generation ship mostly serves as a backdrop for a character-driven story.
+I also took a brief trip to space for a sci-fi whodunnit in [The Deep Sky](/books/2025/the_deep_sky.md), where the mystery of an explosion on a generation ship mostly serves as a backdrop for a character-driven story.
 
 ### General Life Stuff
 
-The Fiance finally started driving lessons this month, after realisng there's unlikely to be much opportunity once she's busy being pregnant. She was predictably hyper-stressed about everything to begin with but seems to have become considerably less worried about the *concept* of driving at least, if not the particulars of doing it well enough to pass a test. She passed the pre-Learner's test first try, which bodes well if she makes it through the upcoming practical exam next Sunday.
+The Fiance finally started driving lessons this month, after realising there's unlikely to be much opportunity once she's busy being pregnant. She was predictably hyper-stressed about everything to begin with but seems to have become considerably less worried about the *concept* of driving at least, if not the particulars of doing it well enough to pass a test. She passed the pre-Learner's test first try, which bodes well if she makes it through the upcoming practical exam next Sunday.
 
 We also had an old friend of hers, Dennis 2, over for dinner. He turned out to be a rare example of a non-jaded English teacher (working at a kindergarden no less), and brought a bag of excellent coconut-coated nuts for me to graze on over the next week as The Fiance found them distasteful.
 

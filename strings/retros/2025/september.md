@@ -20,7 +20,7 @@ I also had some budget left to grab a pair of indie Inside-likes in the Autumn s
 
 ### Books
 
-Had a lot of time to read on our trip to Nagano, during which I finished [Homo Deus](/books/2025/homo_deus.md and [The Founders Trilogy](/books/2025/founders_trilogy.md. Neither was terribly impressive, both for reasons related to my having too much experience with something, so I went back to the ol' reliable Discworld anthology. I've read an incredible number of Terry's books, enjoying them all, and still have over a hundred hours left to read according to my Kobo. Truly incredible writing output. After finishing the one I'm on now I might pick up the new Witcher book; curious to see if Sapkowski is just shamelessly cashing in on the games or actually still had stories to tell.
+Had a lot of time to read on our trip to Nagano, during which I finished [Homo Deus](/books/2025/homo_deus.md) and [The Founders Trilogy](/books/2025/founders_trilogy.md). Neither was terribly impressive, both for reasons related to my having too much experience with something, so I went back to the ol' reliable Discworld anthology. I've read an incredible number of Terry's books, enjoying them all, and still have over a hundred hours left to read according to my Kobo. Truly incredible writing output. After finishing the one I'm on now I might pick up the new Witcher book; curious to see if Sapkowski is just shamelessly cashing in on the games or actually still had stories to tell.
 
 ### General Life Stuff
 
