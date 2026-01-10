@@ -8,6 +8,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("css");
 	eleventyConfig.addPassthroughCopy("scripts");
 	eleventyConfig.addPassthroughCopy("favicon.svg");
+	eleventyConfig.addPassthroughCopy("robots.txt");
 	eleventyConfig.addWatchTarget("css");
 	eleventyConfig.addWatchTarget("scripts");
 	eleventyConfig.setServerOptions({
