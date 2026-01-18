@@ -1,6 +1,6 @@
 ---
 date: "2026-01-16"
-title: "Hank: Drowning on the Dry Land"
+title: "Hank: Drowning on Dry Land"
 tags: [games, review]
 layout: _post.html
 ---
