@@ -203,7 +203,6 @@ pre {
 }
 
 @media (max-width: 1150px) {
-
 	#table-of-contents,
 	#highlights {
 		display: none;
@@ -244,9 +243,11 @@ header {
 	left: 0;
 	right: 0;
 	z-index: 999;
-	background: linear-gradient(to bottom,
-			var(--background-color) 0%,
-			transparent 100%);
+	background: linear-gradient(
+		to bottom,
+		var(--background-color) 0%,
+		transparent 100%
+	);
 	backdrop-filter: blur(2px);
 	padding: calc(var(--padding) * 0.75);
 
@@ -259,7 +260,12 @@ header {
 		font-weight: bold;
 		height: var(--header-height);
 
-		>a:first-child {
+		.bonfire {
+			height: var(--header-height);
+			width: var(--header-height);
+		}
+
+		> a:first-child {
 			font-size: 1.5rem;
 		}
 
@@ -305,7 +311,7 @@ header {
 			}
 		}
 
-		svg {
+		svg:not(.bonfire) {
 			height: var(--copy-size);
 			width: auto;
 			fill: var(--text-color);
@@ -353,8 +359,10 @@ header {
 		dialog {
 			height: 80vh;
 			width: 80vw;
-			background: radial-gradient(var(--background-color) 40%,
-					transparent 100%);
+			background: radial-gradient(
+				var(--background-color) 40%,
+				transparent 100%
+			);
 			backdrop-filter: blur(2px);
 			border: var(--border);
 			border-radius: var(--border-radius);

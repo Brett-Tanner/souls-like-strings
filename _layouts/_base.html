@@ -24,7 +24,10 @@
   <body>
     <header>
       <nav>
-        <a href="/">Souls Like Strings</a>
+		<a href="/">Souls Like Strings</a>
+		{% if page.url != "/" %}
+			{% include "icons/bonfire.svg" %}
+		{% endif %}
         <div class="spacer"></div>
 		{% assign container = "header" %}{% include "_nav_links.html" %}
 		<button commandfor="nav-dialog" class="nav-dialog-toggle">

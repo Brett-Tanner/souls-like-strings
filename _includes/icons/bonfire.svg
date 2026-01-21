@@ -1,0 +1,372 @@
+<svg class="bonfire">
+	<style>
+		.bonfire {
+			--blade-core: #76746f;
+			--blade-edge: #a7a5a0;
+			--bone-white: #f7f7f7;
+			--bone-off-white: #d7d7d7;
+
+			aspect-ratio: 1;
+			max-height: 100%;
+		}
+
+		.handle {
+			&.cloth {
+				fill: brown;
+			}
+
+			&.steel {
+				fill: var(--blade-edge);
+			}
+		}
+
+		.pommel {
+			fill: var(--blade-core);
+		}
+
+		.flame {
+			&.core {
+				fill: orange;
+			}
+
+			&.edge {
+				fill: red;
+			}
+		}
+
+		.mound {
+			fill: brown;
+		}
+	</style>
+
+	<defs>
+		<g id="pixel">
+			<rect x="0" y="0" width="2%" height="2%" />
+		</g>
+
+		<symbol id="blade-row" x="-17%" y="-10%">
+			<style>
+				.blade-core {
+					fill: var(--blade-core);
+				}
+
+				.blade-edge {
+					fill: var(--blade-edge);
+				}
+			</style>
+			<use xlink:href="#pixel" x="0%" y="0%" class="blade-edge" />
+			<use xlink:href="#pixel" x="2%" y="0%" class="blade-core" />
+			<use xlink:href="#pixel" x="4%" y="0%" class="blade-core" />
+			<use xlink:href="#pixel" x="6%" y="0%" class="blade-core" />
+			<use xlink:href="#pixel" x="8%" y="0%" class="blade-edge" />
+		</symbol>
+
+		<symbol id="bone" x="0%" y="0%">
+		    <style>
+				.bone {
+					transform-origin: center;
+					transform-box: fill-box;
+				}
+
+				.shard:nth-child(odd) {
+					fill: var(--bone-white);
+				}
+
+				.shard:nth-child(even) {
+					fill: var(--bone-off-white);
+				}
+			</style>
+			<use xlink:href="#pixel" x="0%" y="4%" class="shard" />
+			<use xlink:href="#pixel" x="0%" y="0%" class="shard" />
+			<use xlink:href="#pixel" x="2%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="4%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="6%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="8%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="10%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="12%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="14%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="16%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="18%" y="2%" class="shard" />
+			<use xlink:href="#pixel" x="20%" y="4%" class="shard" />
+			<use xlink:href="#pixel" x="20%" y="0%" class="shard" />
+		</symbol>
+
+		<symbol id="guard-narrow" x="0%" y="0%">
+			<style>
+				.guard {
+					fill: var(--blade-core);
+				}
+			</style>
+			<use xlink:href="#pixel" x="0%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="2%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="4%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="6%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="8%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="10%" y="0%" class="guard" />
+		</symbol>
+
+		<symbol id="guard-wide" x="0%" y="0%">
+			<style>
+				.guard {
+					fill: var(--blade-core);
+				}
+			</style>
+			<use xlink:href="#pixel" x="0%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="2%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="4%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="6%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="8%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="10%" y="0%" class="guard" />
+			<use xlink:href="#pixel" x="12%" y="0%" class="guard" />
+		</symbol>
+
+		<symbol id="flame-base" x="0%" y="0%">
+		    <style>
+				.flame-base {
+					transform-origin: center;
+					transform-box: fill-box;
+
+					&.flip {
+						transform: scaleX(-1);
+					}
+
+					&.scale {
+						transform: scale(var(--scale));
+					}
+				}
+			</style>
+			<use xlink:href="#pixel" x="4%" y="0%" class="flame edge" />
+			<use xlink:href="#pixel" x="6%" y="0%" class="flame edge" />
+
+			<use xlink:href="#pixel" x="3%" y="2%" class="flame edge" />
+			<use xlink:href="#pixel" x="5%" y="2%" class="flame core" />
+			<use xlink:href="#pixel" x="7%" y="2%" class="flame edge" />
+
+			<use xlink:href="#pixel" x="1%" y="4%" class="flame edge" />
+			<use xlink:href="#pixel" x="3%" y="4%" class="flame core" />
+			<use xlink:href="#pixel" x="5%" y="4%" class="flame core" />
+			<use xlink:href="#pixel" x="7%" y="4%" class="flame edge" />
+
+			<use xlink:href="#pixel" x="0%" y="6%" class="flame edge" />
+			<use xlink:href="#pixel" x="2%" y="6%" class="flame core" />
+			<use xlink:href="#pixel" x="4%" y="6%" class="flame core" />
+			<use xlink:href="#pixel" x="6%" y="6%" class="flame core" />
+			<use xlink:href="#pixel" x="8%" y="6%" class="flame edge" />
+		</symbol>
+	</defs>
+
+	<use xlink:href="#pixel" x="67%" y="8%" class="pommel" />
+	<use xlink:href="#pixel" x="69%" y="8%" class="pommel" />
+	<use xlink:href="#pixel" x="71%" y="8%" class="pommel" />
+
+	<use xlink:href="#pixel" x="68%" y="10%" class="handle steel" />
+	<use xlink:href="#pixel" x="70%" y="10%" class="handle cloth" />
+	<use xlink:href="#pixel" x="67%" y="12%" class="handle cloth" />
+	<use xlink:href="#pixel" x="69%" y="12%" class="handle steel" />
+	<use xlink:href="#pixel" x="66%" y="14%" class="handle steel" />
+	<use xlink:href="#pixel" x="68%" y="14%" class="handle cloth" />
+	<use xlink:href="#pixel" x="65%" y="16%" class="handle cloth" />
+	<use xlink:href="#pixel" x="67%" y="16%" class="handle steel" />
+
+	<use xlink:href="#guard-narrow" x="60%" y="18%" class="guard" />
+	<use xlink:href="#guard-wide" x="58%" y="20%" class="guard" />
+	<use xlink:href="#guard-wide" x="56%" y="22%" class="guard" />
+	<use xlink:href="#guard-narrow" x="56%" y="24%" class="guard" />
+
+	<use xlink:href="#pixel" x="31%" y="75%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="75%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="75%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="75%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="75%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="75%" class="mound" />
+
+	<use xlink:href="#pixel" x="29%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="77%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="77%" class="mound" />
+
+	<use xlink:href="#pixel" x="27%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="79%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="79%" class="mound" />
+
+	<!-- Needs to be partially behind the sword -->
+	<use xlink:href="#pixel" x="75%" y="14%" class="flame edge" />
+	<use xlink:href="#pixel" x="74%" y="16%" class="flame edge" />
+	<use xlink:href="#pixel" x="73%" y="18%" class="flame edge" />
+	<use xlink:href="#pixel" x="72%" y="20%" class="flame edge" />
+	<use xlink:href="#pixel" x="71%" y="22%" class="flame edge" />
+	<use xlink:href="#pixel" x="70%" y="24%" class="flame edge" />
+	<use xlink:href="#pixel" x="69%" y="24%" class="flame edge" />
+	<use xlink:href="#pixel" x="69%" y="26%" class="flame edge" />
+	<use xlink:href="#pixel" x="67%" y="26%" class="flame edge" />
+	<use xlink:href="#pixel" x="67%" y="28%" class="flame edge" />
+	<use xlink:href="#pixel" x="65%" y="28%" class="flame edge" />
+	<use xlink:href="#pixel" x="65%" y="30%" class="flame edge" />
+	<use xlink:href="#pixel" x="64%" y="31%" class="flame edge" />
+	<use xlink:href="#pixel" x="63%" y="31%" class="flame edge" />
+	<use xlink:href="#pixel" x="49%" y="39%" class="flame edge" />
+	<use xlink:href="#pixel" x="53%" y="53%" class="flame edge" />
+	<use xlink:href="#pixel" x="51%" y="55%" class="flame edge" />
+	<use xlink:href="#pixel" x="37%" y="65%" class="flame edge" />
+
+	<use xlink:href="#blade-row" x="74%" y="36%" class="blade-row" />
+	<use xlink:href="#blade-row" x="73%" y="38%" class="blade-row" />
+	<use xlink:href="#blade-row" x="72%" y="40%" class="blade-row" />
+	<use xlink:href="#blade-row" x="71%" y="42%" class="blade-row" />
+	<use xlink:href="#blade-row" x="70%" y="44%" class="blade-row" />
+	<use xlink:href="#blade-row" x="69%" y="46%" class="blade-row" />
+	<use xlink:href="#blade-row" x="68%" y="48%" class="blade-row" />
+	<use xlink:href="#blade-row" x="67%" y="50%" class="blade-row" />
+	<use xlink:href="#blade-row" x="66%" y="52%" class="blade-row" />
+	<use xlink:href="#blade-row" x="65%" y="54%" class="blade-row" />
+	<use xlink:href="#blade-row" x="64%" y="56%" class="blade-row" />
+	<use xlink:href="#blade-row" x="63%" y="58%" class="blade-row" />
+	<use xlink:href="#blade-row" x="62%" y="60%" class="blade-row" />
+	<use xlink:href="#blade-row" x="61%" y="62%" class="blade-row" />
+	<use xlink:href="#blade-row" x="60%" y="64%" class="blade-row" />
+	<use xlink:href="#blade-row" x="59%" y="66%" class="blade-row" />
+	<use xlink:href="#blade-row" x="58%" y="68%" class="blade-row" />
+	<use xlink:href="#blade-row" x="57%" y="70%" class="blade-row" />
+	<use xlink:href="#blade-row" x="56%" y="72%" class="blade-row" />
+	<use xlink:href="#blade-row" x="55%" y="74%" class="blade-row" />
+	<use xlink:href="#blade-row" x="54%" y="76%" class="blade-row" />
+	<use xlink:href="#blade-row" x="53%" y="78%" class="blade-row" />
+	<use xlink:href="#blade-row" x="52%" y="80%" class="blade-row" />
+	<use xlink:href="#blade-row" x="51%" y="82%" class="blade-row" />
+	<use xlink:href="#blade-row" x="50%" y="84%" class="blade-row" />
+	<use xlink:href="#blade-row" x="49%" y="86%" class="blade-row" />
+	<use xlink:href="#blade-row" x="48%" y="88%" class="blade-row" />
+
+	<use xlink:href="#bone" x="26%" y="78%" class="bone" />
+	<use xlink:href="#bone" x="70%" y="40%" class="bone" transform="rotate(45)" />
+	<use xlink:href="#bone" x="75%" y="-20%" class="bone" transform="rotate(90)" />
+	<use xlink:href="#bone" x="-34%" y="76%" class="bone" transform="rotate(315)" />
+	<use xlink:href="#bone" x="-46%" y="66%" class="bone" transform="rotate(300)" />
+
+	<use xlink:href="#pixel" x="25%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="27%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="81%" class="mound" />
+	<use xlink:href="#pixel" x="47%" y="81%" class="mound" />
+
+	<use xlink:href="#pixel" x="23%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="25%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="27%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="47%" y="83%" class="mound" />
+	<use xlink:href="#pixel" x="49%" y="83%" class="mound" />
+
+	<use xlink:href="#pixel" x="21%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="23%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="25%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="27%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="47%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="49%" y="85%" class="mound" />
+	<use xlink:href="#pixel" x="51%" y="85%" class="mound" />
+
+	<use xlink:href="#pixel" x="19%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="21%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="23%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="25%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="27%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="47%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="49%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="51%" y="87%" class="mound" />
+	<use xlink:href="#pixel" x="53%" y="87%" class="mound" />
+
+	<use xlink:href="#pixel" x="17%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="19%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="21%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="23%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="25%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="27%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="29%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="31%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="33%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="35%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="37%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="39%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="41%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="43%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="45%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="47%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="49%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="51%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="53%" y="89%" class="mound" />
+	<use xlink:href="#pixel" x="55%" y="89%" class="mound" />
+
+	<use xlink:href="#pixel" x="49%" y="41%" class="flame edge" />
+	<use xlink:href="#pixel" x="48%" y="41%" class="flame edge" />
+	<use xlink:href="#pixel" x="50%" y="43%" class="flame edge" />
+	<use xlink:href="#pixel" x="49%" y="43%" class="flame edge" />
+	<use xlink:href="#pixel" x="51%" y="45%" class="flame edge" />
+	<use xlink:href="#pixel" x="50%" y="45%" class="flame edge" />
+	<use xlink:href="#pixel" x="52%" y="47%" class="flame edge" />
+	<use xlink:href="#pixel" x="51%" y="47%" class="flame edge" />
+	<use xlink:href="#pixel" x="53%" y="49%" class="flame edge" />
+	<use xlink:href="#pixel" x="52%" y="49%" class="flame edge" />
+	<use xlink:href="#pixel" x="54%" y="51%" class="flame edge" />
+	<use xlink:href="#pixel" x="53%" y="51%" class="flame edge" />
+	<use xlink:href="#pixel" x="54%" y="53%" class="flame edge" />
+	<use xlink:href="#pixel" x="53%" y="55%" class="flame edge" />
+
+	<use xlink:href="#pixel" x="37%" y="63%" class="flame edge" />
+	<use xlink:href="#pixel" x="35%" y="65%" class="flame edge" />
+	<use xlink:href="#pixel" x="35%" y="67%" class="flame edge" />
+	<use xlink:href="#pixel" x="37%" y="67%" class="flame edge" />
+	<use xlink:href="#pixel" x="36%" y="69%" class="flame edge" />
+	<use xlink:href="#pixel" x="38%" y="69%" class="flame edge" />
+	<use xlink:href="#pixel" x="37%" y="71%" class="flame edge" />
+	<use xlink:href="#pixel" x="39%" y="71%" class="flame edge" />
+	<use xlink:href="#flame-base" x="22%" y="50%" class="flame-base scale" style="--scale: 1.5" />
+
+	<use xlink:href="#flame-base" x="-42%" y="81%" class="flame-base flip" />
+	<use xlink:href="#flame-base" x="46%" y="83%" class="flame-base" />
+	<use xlink:href="#flame-base" x="30%" y="83%" class="flame-base" />
+	<use xlink:href="#flame-base" x="-23%" y="79%" class="flame-base flip" />
+	<use xlink:href="#flame-base" x="-17%" y="83%" class="flame-base flip" />
+</svg>

@@ -3,6 +3,12 @@ h1 {
 	text-align: center;
 }
 
+.bonfire {
+	align-self: center;
+	height: 55vh;
+	width: 55vh;
+}
+
 main {
 	display: flex;
 	flex-flow: row wrap;
