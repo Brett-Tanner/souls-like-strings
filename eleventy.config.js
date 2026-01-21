@@ -15,7 +15,9 @@ export default async function(eleventyConfig) {
 		showAllHosts: true,
 	});
 
-	eleventyConfig.addPlugin(IdAttributePlugin);
+	eleventyConfig.addPlugin(IdAttributePlugin, {
+		checkDuplicates: false,
+	});
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "rss",
 		outputPath: "/feed.xml",
