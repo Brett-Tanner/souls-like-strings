@@ -5,7 +5,7 @@ tags: [dev]
 layout: _post.html
 ---
 
-## [Josh w Comeau](https://www.joshwcomeau.com/)
+## [Josh Comeau](https://www.joshwcomeau.com/)
 
 ### Topics
 
