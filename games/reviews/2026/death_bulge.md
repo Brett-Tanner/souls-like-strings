@@ -1,5 +1,5 @@
 ---
-date: "2026-03-27"
+date: "2026-02-27"
 title: "Deathbulge: Battle of the Bands"
 tags: [games, review]
 layout: _post.html

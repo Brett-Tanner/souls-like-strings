@@ -1,5 +1,5 @@
 ---
-date: "2026-03-28"
+date: "2026-02-28"
 title: "Blasphemous"
 tags: [games, review]
 layout: _post.html
