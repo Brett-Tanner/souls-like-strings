@@ -5,8 +5,8 @@ h1 {
 
 .bonfire {
 	align-self: center;
-	height: 55vh;
-	width: 55vh;
+	width: min(95vw, 55vh);
+	aspect-ratio: 1 / 1;
 }
 
 main {
