@@ -5,13 +5,11 @@ tags: [strings, retro]
 layout: _post.html
 ---
 
-## What Went Well
-
-### Projects
+## Projects
 
 Continued writing this blog! Did not make as much progress on my meetup talk as I probably should have (i.e more than 0) but I've always worked best close to the deadline anyway.
 
-### Games
+## Games
 
 Despite being in Italy for 10 days of the month I racked up over 90 hours of Slay the Spire 2 in the 16 remaining days after its March 5th release. That's just over 5.5 hours a day which sounds about right haha, more or less every moment I could be using my laptop. As expected it's the original but better in every way in much the same way as [Hades 2](/games/reviews/2025/hades_2.md), and that's without an Act 4, no alternate paths for Act 2 or 3, ascensions capped at 10 and a whole Early Access of balancing patches yet to come. Despite this I actually still managed to finish a few other games this month, though two were more 'finished'.
 
@@ -21,7 +19,7 @@ In games I actually finished, [Anomaly Agent](/games/reviews/2026/anomaly_agent.
 
 [Portal 2](/games/reviews/2026/portal_2.md) made clear that it deserves its legendary status by attaching a fully fleshed out story to the improved and expanded puzzle gameplay of the first, in addition to introducing some variety in scenery and Aperture lore. Never stops being funny and the difficulty progression is almost perfect, I always felt challenged but very rarely stuck.
 
-### Books
+## Books
 
 We spent many hours on trains and many unfortunately sleepless hours on planes during the honeymoon, so I got a similarly incredible amount of reading done. I'll just comment on the standouts since I don't have much more to say about the others beyond their already short reviews.
 
@@ -30,15 +28,15 @@ We spent many hours on trains and many unfortunately sleepless hours on planes d
 I also read [Kim Jiyoung, Born 1982](/books/2026/kim_jiyoung.md), the first two [Midsolar Murders](/books/2026/midsolar_murders.md) books and [The Psychology of Time Travel](/books/2026/psychology_of_time_travel.md).
 
 
-### General Life Stuff
+## General Life Stuff
 
 Obviously most of the memorable stuff from this month is from our honeymoon in Italy, but I'd be remiss not to mention our attempt to play tennis with our Russian friends for the first time. It went about as well as expected when two complete novices play with a couple who plays multiple times a week but I think a good time was had by all and by the end we even managed a few decently long rallies. Quite an improvement from The Wife and I regularly failing to even hit the ball in the beginning. But that's not what you're here for, you care about the fact that a few days later we were in
 
-#### Rome
+### Rome
 
 We arrived fairly late the first night, took the Leornado Express to Roma Termini, then struggled with ticket machines before getting our (reusable paper!) tickets to the subway and hauling our suitcases the last 10 minutes to Prati Home. It was recommended to us by friends who'd been the previous year; thanks to them for the great recommendation since the apartment was huge/close to everything. The owner recommended a pasta place nearby for dinner, Cacio e Pepe, then booked it for us and off we went to our first meal in Italy. The Wife ordered some pasta absolutely drowned in tomato sauce while I went with some bacon-based pasta (though as with most meals on this trip we switched halfway through) and they were both great. Very salty though, probably to make you pay for the water which costs money(!) in Europe.
 
-##### The Colosseum - Day 1
+#### The Colosseum - Day 1
 
 Despite a huge day of travelling we found ourselves awake at the crack of dawn and headed in the general direction of the Colosseum, though not before stopping at the highlight of The Wife's trip, a fancy bakery, for breakfast. Despite some awkward standing around figuring out how to order and if we were allowed to sit at a table a staff member eventually took pity on us and sat us down then took our orders. The food was pretty amazing; we had some sweet stuff, some savoury stuff and a nice coffee latte (or just latte in my case, which it turns out is just warm milk in Italy). Fueled up and energised we walked through a small local market we'd passed on the way then failed to find some bigger flea markets The Wife had earmaked and stumbled upon the Piazza del Popolo. From there we made the long trek up inumerable flights of stairs to Villa Borghese (confusingly a park, not a Villa).
 
@@ -48,7 +46,7 @@ To ensure we weren't late for our Colosseum entry we headed off nice and early, 
 
 Next up was Palatine Hill & the Forum, a whole district of historical ruins and buildings. Our first stop was a gigantic trio of half-domed stages, nearly as tall as the second floor of the Colosseum but open to one side. We wandered through the ruins of the Roman Forum, reading snatches of its history (Rome's 'only jail', the flood plain it was all built on) and fervently hoping the occasional drops of rain wouldn't transition to a downpour before we made it safely home. As time was short before closing, we quickly summitted Palantine Hill to get an amazing view of the surrounding city. Having had enough of that we headed for the gardens on the back slope, where The Wife became absolutely besotted with an odd foot statue. Sadly we were hearded toward the exit by staff shortly after, and trudged our way back through a cavalcade of miscellanious historical sites to our hotel with aching feet. Next on the agenda: a house call to the Pope.
 
-##### The Vatican - Day 2
+#### The Vatican - Day 2
 
 For breakfast we mixed things up by trying both a different bakery and eating at the counter (cheaper in Italy), as well as grabbing some sandwiches for a later snack. I liked the food but The Wife wasn't impressed by how sweet-focused it all was, so Day 3 found us back in the original, fancy bakery. After brekky we attempted to wander along the Tiber toward a district with some secondhand English-language bookstores before giving up and cutting through city streets since staying on the river was surprisingly difficult/noisy. Each bookstore had a pretty wide selection and we spent a pleasant few hours perusing their wares, unfortunately interrupting the lunch of one shop assistant (I think he ate it while we were looking around anyway).
 
@@ -60,7 +58,7 @@ The pleasantly open courtyard shortly after exiting Michelangelo's magnum opus s
 
 The only disappointing aspect of the day was our decision to eat the only bad (mediocre) pizza we had all trip at a chain restaurant near our accomodation, though future pizza-related mistakes could certainly have been avoided by paying attention to the _size_ of said mediocre pizza. With that out of the way it was time for bed and a nice relaxing day of
 
-##### Exploration & Food - Day 3
+#### Exploration & Food - Day 3
 
 Our 3rd and final day in Rome served as a grab bag of the destinations we hadn't ticked off our todo list yet, with no major destination to tie the day together. We initially set off for the Circus Maximus, taking a quick look at Trevi Fountain and walking through the heavily patrolled Jewish Ghetto along the way. While taking a break in some random park in the middle of a few roads we realised we'd ended up at the Bocca della Verità and took a peak from outside, after lamenting that we hadn't grown up in Europe while some French kids wandered past on a school trip.
 
@@ -72,7 +70,7 @@ With our checklist for the day completed and feet burning with every step we mad
 
 Exhausted from our 3 days of constant walking around Rome we had an early night in preparation for our first long train journey to
 
-#### Pompeii - Day 4
+### Pompeii - Day 4
 
 The train to Naples was efficient and uneventful, descriptors which sadly could not be applied to the crowded local taking us to the park itself. Some buskers decided to set up shop in the carriages, playing a few songs at ear-splitting volume before solicting tips on their way to the next set of doors. Especially coming from Japan, the idea of someone getting on a train for the express purpose of making noise is horrifying, but some people seemed to get into the mood and clap along.
 
@@ -84,13 +82,13 @@ Had we known what awaited us in Naples we probably would've waited for the next 
 
 The rain slowed down as darkness fell, letting us make one final push for a seaside castle to take a photo of The Wife with The Pizza in front of. Mostly we just needed to kill time until our train left, a useful reminder once again to not book tickets in advance if you can avoid it. After the photo op we made our way back to the station and onto the train for the ride back to our final night Rome (for now).
 
-#### Florence - Day 5
+### Florence - Day 5
 
 We tearfully bid farewell to our lovely Rome apartment and boarded our Trenitalia carriage for Florence, home of Assassin's Creed 2. Sadly The Wife was more interested in visting some gallery than wandering around the city looking for buildings I jumped into haystacks off of in the PS3 days so after a quick walk along the river we headed there. Much like the Vatican there was a serious overload of art; even the hallways running alongside the gallery rooms on each level were packed with portraits and sculptures. There were a lot of very nice paintings whose true significance was no doubt lost on a philistine such as myself, but 'The Birth of Venus' was famous enough to pierce even the fog created by my lack of culture. Do not be fooled into thinking you've reached the end once you're on the top floor of the building you enter via; there's a whole other building across the archway with its own floors of priceless art (and a nice view of the city from a rooftop cafe).
 
 Other than the gallery not too much stood out about Florence; it wasn't actively disappointing like Naples but it also lacked the spark of Rome, where you could find something amazing around any random corner. At least the food was still amazing; we found a restaurant near our hotel offering a variety of delectable dishes from which The Wife selected some seafood past and I chose the time tested gnocchi. Dinnertime entertainment was courtest of The Wife narrating an episode of Law & Order to me since she was facing the TV, further enhanced by the lack of subtitles and the audio obviously being in Italian. We made our way back to the hotel and thus ended the majority of our time in Florence itself, leaving a surprisingly small mark for such an influential place.
 
-#### Siena & Certaldo - Day 6
+### Siena & Certaldo - Day 6
 
 Fortunately we hadn't planned any time for just wandering around the city. Instead the next morning took us on a day trip through the countryside to Siena, a historical city sprawled across a hilltop (but accessed through a comically long escalator at the top of a decidedly not-historical mall). Siena was nice, kind of replicating the tightly packed backstreets of Naples minus the piles of trash and plus a nice square where we spent some time awkwardly standing around trying to ask someone to take our photo. A nice lady obliged but managed to get her finger in nearly every shot, so we had to ask someone else in the end.
 
@@ -102,7 +100,7 @@ After indulging our sweet tooth we made the traditional mad rush to the station 
 
 Once back in Florence we were too tired to look for a new restaurant so fell back on the one from last night, where we were apparently regulars as the owner recognised us and the only open table was by chance the one we'd used the previous night. The Wife enjoyed grilled chicken breast while I had some kind of zucchini-topped pasta. Sadly narration was not on the menu this night as the TV was occupied by Euroleague rather than Law & Order.
 
-#### Lucca, Pisa & Train Adventures - Day 7
+### Lucca, Pisa & Train Adventures - Day 7
 
 Our final 'real' day of honeymoon did not have the best start as you can read in [What Went Badly](#what-went-badly), but despite a tough start, some smokers and a lesson in sunk costs we powered through to have a pretty good day overall. Our first destination was Lucca, home of a wide topped wall most of the city seemed very happy to take advantage of being able to walk, jog and ride around on top of. There were also the the classic touristy back streets and squares within the wall, as well as a gift shop where The Wife procured some soap as a souvenir for her mum.
 
@@ -112,7 +110,7 @@ Then it was finally time to make our pilgrimage to the funny picture place. I we
 
 As we made our way back to the station we happened upon a tiny church by the river, housing a some flower art on its floor. The size and vibe made a nice change from the imposing grandiosity we'd become accustomed to from religion over the course of our trip. With our sightseeing out of the way it was time for a multi-hour chain of high speed trains through Florence back to Rome for our final day of
 
-#### Cheese Acquisition - Day 8
+### Cheese Acquisition - Day 8
 
 In a fun twist of fate our most modern, convenient accomodation for the trip was the one we spend the least time in. We trudged through the doors late at night after our marathon train journey, marvelled at how modern/well maintained it looked despite the historical exterior, then collapsed into bed. Within 12 hours we'd left our bags in the lobby and set out on our most important task of the trip; acquiring as much cheese as financially/legally possible.
 
@@ -122,7 +120,7 @@ Finally, regrettably, it was time to purchase hundreds of dollars of cheese (ost
 
 With that our amazing honeymoon came to an end, but our amazing marriage is just beginning...
 
-### Work
+## Work
 
 Got the privacy policy addendum work mostly done before my honeymoon and quickly put the finishing touches on it within a day or two of being back. Also presented it to C-suite and received positive feedback on that. Between some follow-up work on that, the PFM integration and custom onboarding flow work it looks like there's plenty to do for at least the immediate future.
 
