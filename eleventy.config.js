@@ -7,10 +7,12 @@ export default async function(eleventyConfig) {
 	eleventyConfig.setLayoutsDirectory("_layouts");
 	eleventyConfig.addPassthroughCopy("css");
 	eleventyConfig.addPassthroughCopy("scripts");
+	eleventyConfig.addPassthroughCopy("images");
 	eleventyConfig.addPassthroughCopy("favicon.svg");
 	eleventyConfig.addPassthroughCopy("robots.txt");
 	eleventyConfig.addWatchTarget("css");
 	eleventyConfig.addWatchTarget("scripts");
+	eleventyConfig.addWatchTarget("images");
 	eleventyConfig.setServerOptions({
 		showAllHosts: true,
 	});
