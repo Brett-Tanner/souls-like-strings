@@ -49,7 +49,7 @@ They have a range of talented writers who do a great job breaking down the many,
 
 Every week they find 4 interesting, usually weird things on the internet and share them with you, plus some poetry. It's very rare that they share anything I'm not at least a little interested by, and many of the things they share are indeed very weird.
 
-## Design Inspiration
+## Misc Design Inspirations
 
 ### [Henry from Online](https://henry.codes/)
 
