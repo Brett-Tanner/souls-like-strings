@@ -8,11 +8,13 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("css");
 	eleventyConfig.addPassthroughCopy("scripts");
 	eleventyConfig.addPassthroughCopy("images");
+	eleventyConfig.addPassthroughCopy("public");
 	eleventyConfig.addPassthroughCopy("favicon.svg");
 	eleventyConfig.addPassthroughCopy("robots.txt");
 	eleventyConfig.addWatchTarget("css");
 	eleventyConfig.addWatchTarget("scripts");
 	eleventyConfig.addWatchTarget("images");
+	eleventyConfig.addWatchTarget("public");
 	eleventyConfig.setServerOptions({
 		showAllHosts: true,
 	});
