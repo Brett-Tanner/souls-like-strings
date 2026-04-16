@@ -16,6 +16,10 @@ The original and arguably the best, nothing comes close to its world design.
 
 The perfect metroidvania (for me).
 
+### [Slay the Spire 2](/games/reviews/2026/slay_the_spire_2.md)
+
+This and the original have provided hundreds upon hundreds of hours of enjoyment while preventing me falling back into blowing hundreds upon hundreds of dollars on TCGs. The perfect roguelike deckbuilders; so good they prevent me enjoying anything else in the genre.
+
 ## Creators
 
 ### [Iron Pineapple](https://www.youtube.com/c/IronPineapple)
