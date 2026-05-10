@@ -19,6 +19,10 @@ But overall I'm really happy I did it; was a cool experience and I haven't talke
 
 [Nothing Beyond this Point](/games/reviews/2026/nothing_beyond_this_point.md) (by an Aussie dev!) was a shockingly good top-down bullet hell Metroidvania which I couldn't put down despite it being set in a literal void; high praise for someone who often chooses which MVs to play based on how pretty they look.
 
+[Later Alligator](/games/reviews/2026/later_alligator.md) was an amusing point & click adventure with a very distinctive style, absolutely jam-packed with surprising pop culture references.
+
+[Planet of Lana](/games/reviews/2026/planet_of_lana.md) asks "what if Inside discovered colors and hope?" then answers with aplomb.
+
 ## Books
 
 Not much time for reading between talk prep and gaming but I still read and enjoyed [The Saint of Bright Doors](/books/2026/saint_of_bright_doors.md), the strange tale of a chosen one who determinedly refuses to be.
