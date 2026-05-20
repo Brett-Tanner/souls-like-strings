@@ -6,7 +6,7 @@ layout: _post.html
 eleventyExcludeFromCollections: true
 ---
 
-All these had less than 100 reviews at the time I bought them but deserve many more.
+Each of these games had less than 100 reviews at the time I bought them but deserve many more.
 
 Maybe they have a really cool idea which deserves to be fleshed out or amazing art direction. Maybe they're just fantastic games it's a crime more people don't know about. Regardless of the reason, this page is where I make my small contribution to getting the word out.
 
