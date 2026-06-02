@@ -15,13 +15,13 @@ But overall I'm really happy I did it; was a cool experience and I haven't talke
 
 ## Games
 
-[Bug Fables](/games/reviews/2026/bug_fables.md) had some fun Paper Mario-esque ideas and the art direction grew on me, but they ran out of new mechanics a few hours in and the story wasn't enough to make me sign up for the classic JRPG grind.
+[Bug Fables](/games/reviews/2026/april/bug_fables.md) had some fun Paper Mario-esque ideas and the art direction grew on me, but they ran out of new mechanics a few hours in and the story wasn't enough to make me sign up for the classic JRPG grind.
 
-[Nothing Beyond this Point](/games/reviews/2026/nothing_beyond_this_point.md) (by an Aussie dev!) was a shockingly good top-down bullet hell Metroidvania which I couldn't put down despite it being set in a literal void; high praise for someone who often chooses which MVs to play based on how pretty they look.
+[Nothing Beyond this Point](/games/reviews/2026/may/nothing_beyond_this_point.md) (by an Aussie dev!) was a shockingly good top-down bullet hell Metroidvania which I couldn't put down despite it being set in a literal void; high praise for someone who often chooses which MVs to play based on how pretty they look.
 
-[Later Alligator](/games/reviews/2026/later_alligator.md) was an amusing point & click adventure with a very distinctive style, absolutely jam-packed with surprising pop culture references.
+[Later Alligator](/games/reviews/2026/april/later_alligator.md) was an amusing point & click adventure with a very distinctive style, absolutely jam-packed with surprising pop culture references.
 
-[Planet of Lana](/games/reviews/2026/planet_of_lana.md) asks "what if Inside discovered colors and hope?" then answers with aplomb.
+[Planet of Lana](/games/reviews/2026/april/planet_of_lana.md) asks "what if Inside discovered colors and hope?" then answers with aplomb.
 
 ## Books
 

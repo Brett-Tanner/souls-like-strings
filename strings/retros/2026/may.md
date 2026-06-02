@@ -11,38 +11,39 @@ Honestly I'm probably just gonna drop this section unless I start working on som
 
 ## Games
 
-A pretty huge one this month; I had two weeks off where The Wife was either working or in a different country so I played a LOT. Some absolute bangers as well, both [expected](/games/reviews/2026/unbeatable.md) and [surprising](/games/reviews/2026/key_fairy.md). Since there are so many I'll just list them in loose groups rather than trying to string them together in neat paragraphs; I spent so long playing Mina the Hollower tonight that I only have two hours left to finish this, go for a ride and get to sleep.
+A pretty huge one this month; I had two weeks off where The Wife was either working or in a different country so I played a LOT. Some absolute bangers as well, both [expected](/games/reviews/2026/may/unbeatable.md) and [surprising](/games/reviews/2026/may/key_fairy.md). Since there are so many I'll just list them in loose groups rather than trying to string them together in neat paragraphs; I spent so long playing Mina the Hollower tonight that I only have two hours left to finish this, go for a ride and get to sleep.
 
 ### Straight into Favourites
 
-- [Unbeatable](/games/reviews/2026/unbeatable.md)
-- [Key Fairy](/games/reviews/2026/key_fairy.md)
+- [Unbeatable](/games/reviews/2026/may/unbeatable.md)
+- [Key Fairy](/games/reviews/2026/may/key_fairy.md)
+- [Titanium Court](/games/reviews/2026/may/titanium_court.md)
 
 ### Great, but not perfect
 
-- [En Garde](/games/reviews/2026/en_garde.md)
-- [Kingdom Shell](/games/reviews/2026/kingdom_shell.md)
-- [The Artful Escape](/games/reviews/2026/the_artful_escape.md)
+- [En Garde](/games/reviews/2026/may/en_garde.md)
+- [Kingdom Shell](/games/reviews/2026/may/kingdom_shell.md)
+- [The Artful Escape](/games/reviews/2026/may/the_artful_escape.md)
 
 ### Solidly enjoyable
 
-- [Lost Ruins](/games/reviews/2026/lost_ruins.md)
-- [Sealed Bite: Extended](/games/reviews/2026/sealed_bite.md)
-- [Nocturnal](/games/reviews/2026/nocturnal.md)
-- [Nubby's Number Factory](/games/reviews/2026/nubbys_number_factory.md)
+- [Lost Ruins](/games/reviews/2026/may/lost_ruins.md)
+- [Sealed Bite: Extended](/games/reviews/2026/may/sealed_bite.md)
+- [Nocturnal](/games/reviews/2026/may/nocturnal.md)
+- [Nubby's Number Factory](/games/reviews/2026/may/nubbys_number_factory.md)
 
 ### Interesting Ideas, but maybe too interesting
 
-- [Ultros](/games/reviews/2026/ultros.md)
+- [Ultros](/games/reviews/2026/may/ultros.md)
 
 ### How I learned I don't like puzzle games
 
-- [Sliding Hero](/games/reviews/2026/sliding_hero.md)
-- [Braid](/games/reviews/2026/braid.md)
+- [Sliding Hero](/games/reviews/2026/may/sliding_hero.md)
+- [Braid](/games/reviews/2026/may/braid.md)
 
 ### Way overhyped
 
-- [To the Moon](/games/reviews/2026/to_the_moon.md)
+- [To the Moon](/games/reviews/2026/may/to_the_moon.md)
 
 ## Books
 
