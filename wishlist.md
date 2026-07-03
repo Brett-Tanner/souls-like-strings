@@ -27,7 +27,6 @@ These all ship from America, the shipping doesn't increase when you buy more so 
 - ~~[Long sleeve](https://www.fangamer.jp/collections/hollow-knight/products/hollow-knight-kindred-souls-long-sleeve-shirt)~~
 - [Knight in the garden](https://www.fangamer.jp/collections/hollow-knight/products/wandering-knight-shirt)
 - [Hornet in the garden](https://www.fangamer.jp/collections/hollow-knight/products/nimble-hornet-shirt)
-- [Book](https://www.fangamer.com/collections/hollow-knight/products/hollow-knight-wanderers-journal-book): Ships from America though
 
 ### Hyper Light Drifter
 
@@ -41,3 +40,10 @@ These all ship from America, the shipping doesn't increase when you buy more so 
 ### VA-11 HA11A
 
 - [Doggo](https://www.fangamer.jp/collections/va-11-hall-a/products/vallhalla-rad-shiba-shirt)
+
+## Books
+
+- [Hollow Knight](https://www.fangamer.com/collections/hollow-knight/products/hollow-knight-wanderers-journal-book): Ships from America though
+- [Elden Ring](https://www.tuneandfairweather.com/products/lore-bound-elden-ring-softcover)
+- [Gaming Essays & Cool art](https://www.lostincult.co.uk/howagamelives)
+
