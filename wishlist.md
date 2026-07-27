@@ -20,6 +20,8 @@ These all ship from America, the shipping doesn't increase when you buy more so 
 
 ### Dark Souls
 
+- [Mushroom Bonk](https://ironpineapplestore.com/en-jpy/products/mushroom-bonk) (Oatmeal Triblend)
+- [Skateboard Knight](https://ironpineapplestore.com/en-jpy/products/skateboard-knight) (purple pls)
 - [Siegmeyer](https://www.fangamer.jp/collections/dark-souls/products/siegmeyer-shirt)
 
 ### Hollow Knight
