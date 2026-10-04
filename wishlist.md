@@ -45,6 +45,7 @@ These all ship from America, the shipping doesn't increase when you buy more so 
 
 ## Books
 
+- [Clair Obscur: Expedition 33](https://store.udonentertainment.com/products/the-art-of-clair-obscur-expedition-33-standard-edition?_pos=1&_sid=71141a181&_ss=r)
 - [Hollow Knight](https://www.fangamer.com/collections/hollow-knight/products/hollow-knight-wanderers-journal-book): Ships from America though
 - [Elden Ring](https://www.tuneandfairweather.com/products/lore-bound-elden-ring-softcover)
 - [Gaming Essays & Cool art](https://www.lostincult.co.uk/howagamelives)
