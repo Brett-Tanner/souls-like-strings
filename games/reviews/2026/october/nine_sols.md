@@ -1,5 +1,5 @@
 ---
-date: "2026-02-25"
+date: "2026-10-25"
 title: "Nine Sols"
 tags: [games, review]
 layout: _post.html
