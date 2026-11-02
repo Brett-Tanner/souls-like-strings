@@ -7,7 +7,7 @@ layout: _post.html
 
 ## Games
 
-The Fortune's Weave nearly consimed this month completely, but eventually [Nine Sols](/games/reviews/2026/october/nine_sols.md) broke through near the end (ll the bosses were great, but the Eigong fight really is amazing).
+The Fortune's Weave nearly consumed this month completely, but eventually [Nine Sols](/games/reviews/2026/october/nine_sols.md) broke through near the end (ll the bosses were great, but the Eigong fight really is amazing).
 
 After that I finally started Control (not finished yet) and got sucked into a cool little indie which just released called [Virtue and a Sledgehammer](/games/reviews/2026/october/virtue_and_a_sledgehammer.md) where you revisit your hometown and troubled childhood armed with the titular sledgehammer. Speaking of the past, [Hypnospace Outlaw](/games/reviews/2026/october/hypnospace_outlaw.md) is a brilliant nostalgia trip to the early days of the internet which delivers its plot almost entirely through environmental storytelling (and lovingly crafted geocities-style personal pages).
 
